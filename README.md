@@ -6,6 +6,15 @@
 
 **阅读入口：** [作业要求](docs/作业要求.md) · [五关结果](#results) · [截图说明](docs/截图说明.md) · [快速运行](#quickstart) · [目录与文档](#files) · [Word 实验报告](docs/S-AES实验报告_截图演示版.docx)
 
+## 系列实验导航
+
+点击实验名称切换仓库，右侧可直接查看对应的使用说明、测试结果和截图。
+
+| 实验 | 内容 | 文档与结果 |
+| --- | --- | --- |
+| [实验1：S-DES](https://github.com/Qisheng-Zhang/Information_Security_Lab1) | 8位分组、10位密钥、ASCII字符串、TCP通信、暴力破解、密钥碰撞分析 | [使用说明](https://github.com/Qisheng-Zhang/Information_Security_Lab1/blob/main/docs/用户指南.md) · [测试结果](https://github.com/Qisheng-Zhang/Information_Security_Lab1/blob/main/docs/测试报告.md) · [截图说明](https://github.com/Qisheng-Zhang/Information_Security_Lab1/blob/main/docs/截图说明.md) |
+| [实验2：S-AES](https://github.com/Qisheng-Zhang/Information_Security_Lab2) | 16位分组、单重/双重/三重加密、中间相遇攻击、ASCII、CBC及密文篡改 | [使用说明](https://github.com/Qisheng-Zhang/Information_Security_Lab2/blob/main/docs/用户指南.md) · [测试结果](https://github.com/Qisheng-Zhang/Information_Security_Lab2/blob/main/docs/测试报告.md) · [截图说明](https://github.com/Qisheng-Zhang/Information_Security_Lab2/blob/main/docs/截图说明.md) |
+
 ## 这个实验做了什么
 
 先把一个分组的加解密跑通，再用独立实现核对结果；接着处理字符串，扩展到双重、三重加密和中间相遇攻击，最后在 CBC 模式下观察密文被改动后的变化。
