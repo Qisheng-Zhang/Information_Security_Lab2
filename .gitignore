@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+tmp/
+review_sources/
+.pytest_cache/
+
+# 本地历史资料和报告制作过程
+本地归档/
+
+# 编辑器、系统与 Office 临时文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*
+*.tmp

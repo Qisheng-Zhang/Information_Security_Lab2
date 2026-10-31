@@ -1,0 +1,173 @@
+{
+  "framework": "PySide6 / Qt Widgets",
+  "version": "6.12.0",
+  "app_version": "2.2",
+  "offscreen": true,
+  "passed": 41,
+  "cases": [
+    {
+      "case": "真实按钮点击显示 0738 与九个轮状态",
+      "passed": true
+    },
+    {
+      "case": "回填并点击解密还原 6F6B",
+      "passed": true
+    },
+    {
+      "case": "复制成功反馈显示在按钮上",
+      "passed": true
+    },
+    {
+      "case": "复制结果保留前导零",
+      "passed": true
+    },
+    {
+      "case": "输入更新后撤销旧复制反馈",
+      "passed": true
+    },
+    {
+      "case": "选择轮状态同步四格矩阵",
+      "passed": true
+    },
+    {
+      "case": "第1轮筛选只保留四次变换",
+      "passed": true
+    },
+    {
+      "case": "逐步查看不越过当前轮边界",
+      "passed": true
+    },
+    {
+      "case": "行移位仅高亮第二行两个单元格",
+      "passed": true
+    },
+    {
+      "case": "编辑输入提示结果尚未更新",
+      "passed": true
+    },
+    {
+      "case": "输入更新后禁用旧密文复制与回填",
+      "passed": true
+    },
+    {
+      "case": "Ctrl+Enter 使用当前输入加密并恢复结果操作",
+      "passed": true
+    },
+    {
+      "case": "非法输入以状态提示且不阻塞",
+      "passed": true
+    },
+    {
+      "case": "非法分组字段得到错误标记",
+      "passed": true
+    },
+    {
+      "case": "修正输入后清除错误并同步四组二进制",
+      "passed": true
+    },
+    {
+      "case": "侧边导航切换页面与标题",
+      "passed": true
+    },
+    {
+      "case": "交叉向量自检全部通过",
+      "passed": true
+    },
+    {
+      "case": "交叉验证能识别错误密文",
+      "passed": true
+    },
+    {
+      "case": "JSON 内 0B 开头 HEX 无歧义",
+      "passed": true
+    },
+    {
+      "case": "ASCII 奇数长度显示实际补齐提示",
+      "passed": true
+    },
+    {
+      "case": "换行计入ASCII字节数且偶数长度不补齐",
+      "passed": true
+    },
+    {
+      "case": "ASCII 密文预览未误显示明文",
+      "passed": true
+    },
+    {
+      "case": "密文包真实导出成功",
+      "passed": true
+    },
+    {
+      "case": "另一新窗口直接导入解密且保留尾换行",
+      "passed": true
+    },
+    {
+      "case": "ASCII 空工作区导入后能还原",
+      "passed": true
+    },
+    {
+      "case": "多重模式 1 往返",
+      "passed": true
+    },
+    {
+      "case": "多重模式 2 往返",
+      "passed": true
+    },
+    {
+      "case": "多重模式 3 往返",
+      "passed": true
+    },
+    {
+      "case": "48 bit 前导零密钥未切换为 32 bit",
+      "passed": true
+    },
+    {
+      "case": "Qt 后台搜索唯一恢复组合密钥",
+      "passed": true
+    },
+    {
+      "case": "取消搜索后按钮恢复",
+      "passed": true
+    },
+    {
+      "case": "CBC计数与密文包原始长度一致",
+      "passed": true
+    },
+    {
+      "case": "CBC 使用包内共享 IV 解密",
+      "passed": true
+    },
+    {
+      "case": "CBC 翻转对比含逐组 XOR 差值",
+      "passed": true
+    },
+    {
+      "case": "替换实验不修改原密文包",
+      "passed": true
+    },
+    {
+      "case": "空消息篡改被清晰拒绝",
+      "passed": true
+    },
+    {
+      "case": "第 1 页小窗口可滚动访问且无横向溢出",
+      "passed": true
+    },
+    {
+      "case": "第 2 页小窗口可滚动访问且无横向溢出",
+      "passed": true
+    },
+    {
+      "case": "第 3 页小窗口可滚动访问且无横向溢出",
+      "passed": true
+    },
+    {
+      "case": "第 4 页小窗口可滚动访问且无横向溢出",
+      "passed": true
+    },
+    {
+      "case": "第 5 页小窗口可滚动访问且无横向溢出",
+      "passed": true
+    }
+  ]
+}

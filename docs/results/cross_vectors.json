@@ -1,0 +1,65 @@
+{
+  "profile": "S-AES-AppendixD-v1",
+  "vectors": [
+    {
+      "plaintext": "6F6B",
+      "key": "A73B",
+      "ciphertext": "0738"
+    },
+    {
+      "plaintext": "D6B3",
+      "key": "A73B",
+      "ciphertext": "000F"
+    },
+    {
+      "plaintext": "0000",
+      "key": "0000",
+      "ciphertext": "071E"
+    },
+    {
+      "plaintext": "FFFF",
+      "key": "FFFF",
+      "ciphertext": "5343"
+    },
+    {
+      "plaintext": "8000",
+      "key": "0001",
+      "ciphertext": "BE05"
+    },
+    {
+      "plaintext": "7083",
+      "key": "AAE2",
+      "ciphertext": "F976"
+    },
+    {
+      "plaintext": "1323",
+      "key": "861E",
+      "ciphertext": "98AC"
+    },
+    {
+      "plaintext": "3F33",
+      "key": "ADB8",
+      "ciphertext": "FC5E"
+    },
+    {
+      "plaintext": "D337",
+      "key": "489E",
+      "ciphertext": "FFF7"
+    },
+    {
+      "plaintext": "521F",
+      "key": "2A7C",
+      "ciphertext": "C053"
+    },
+    {
+      "plaintext": "9180",
+      "key": "484C",
+      "ciphertext": "27CC"
+    },
+    {
+      "plaintext": "E1E6",
+      "key": "D534",
+      "ciphertext": "5DD8"
+    }
+  ]
+}

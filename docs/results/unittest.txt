@@ -1,0 +1,35 @@
+test_cancellation_and_invalid_pairs (test_saes.AttackTests.test_cancellation_and_invalid_pairs) ... ok
+test_complete_search_collision_retention_and_filtering (test_saes.AttackTests.test_complete_search_collision_retention_and_filtering) ... ok
+test_contradictory_pairs_return_no_key (test_saes.AttackTests.test_contradictory_pairs_return_no_key) ... ok
+test_fixed_regression_vector (test_saes.CoreTests.test_fixed_regression_vector) ... ok
+test_full_domain_permutation_for_one_key (test_saes.CoreTests.test_full_domain_permutation_for_one_key) ... ok
+test_invalid_integer_inputs (test_saes.CoreTests.test_invalid_integer_inputs) ... ok
+test_pdf_gf_example_and_field_laws (test_saes.CoreTests.test_pdf_gf_example_and_field_laws) ... ok
+test_pdf_key_expansion (test_saes.CoreTests.test_pdf_key_expansion) ... ok
+test_pdf_sboxes (test_saes.CoreTests.test_pdf_sboxes) ... ok
+test_pdf_transform_examples (test_saes.CoreTests.test_pdf_transform_examples) ... ok
+test_random_roundtrips_10000 (test_saes.CoreTests.test_random_roundtrips_10000) ... ok
+test_trace_matches_core_and_reverses (test_saes.CoreTests.test_trace_matches_core_and_reverses) ... ok
+test_all_byte_values_are_preserved (test_saes.EncodingTests.test_all_byte_values_are_preserved) ... ok
+test_all_formatted_hex_values_parse (test_saes.EncodingTests.test_all_formatted_hex_values_parse) ... ok
+test_empty_odd_and_trailing_null (test_saes.EncodingTests.test_empty_odd_and_trailing_null) ... ok
+test_rejected_number_forms (test_saes.EncodingTests.test_rejected_number_forms) ... ok
+test_supported_number_forms (test_saes.EncodingTests.test_supported_number_forms) ... ok
+test_ascii_ecb_packets_fresh_session (test_saes.ModesTests.test_ascii_ecb_packets_fresh_session) ... ok
+test_cbc_bitflip_propagation (test_saes.ModesTests.test_cbc_bitflip_propagation) ... ok
+test_cbc_formula (test_saes.ModesTests.test_cbc_formula) ... ok
+test_cbc_packets_and_iv (test_saes.ModesTests.test_cbc_packets_and_iv) ... ok
+test_cbc_replacement_propagation (test_saes.ModesTests.test_cbc_replacement_propagation) ... ok
+test_changing_iv_only_changes_first_plain_block (test_saes.ModesTests.test_changing_iv_only_changes_first_plain_block) ... ok
+test_iv_generation_range (test_saes.ModesTests.test_iv_generation_range) ... ok
+test_reject_invalid_packets (test_saes.ModesTests.test_reject_invalid_packets) ... ok
+test_validate_empty_message_parameters (test_saes.ModesTests.test_validate_empty_message_parameters) ... ok
+test_double_order_and_roundtrip (test_saes.MultipleTests.test_double_order_and_roundtrip) ... ok
+test_multiencryption_random_roundtrips (test_saes.MultipleTests.test_multiencryption_random_roundtrips) ... ok
+test_triple_32_key_reuse (test_saes.MultipleTests.test_triple_32_key_reuse) ... ok
+test_triple_48_and_leading_zero_key (test_saes.MultipleTests.test_triple_48_and_leading_zero_key) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 2.012s
+
+OK

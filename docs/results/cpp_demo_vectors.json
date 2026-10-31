@@ -1,0 +1,5030 @@
+{
+  "profile": "S-AES-AppendixD-v1",
+  "vectors": [
+    {
+      "plaintext": "6F6B",
+      "key": "A73B",
+      "ciphertext": "0738"
+    },
+    {
+      "plaintext": "D6B3",
+      "key": "A73B",
+      "ciphertext": "000F"
+    },
+    {
+      "plaintext": "0000",
+      "key": "0000",
+      "ciphertext": "071E"
+    },
+    {
+      "plaintext": "FFFF",
+      "key": "FFFF",
+      "ciphertext": "5343"
+    },
+    {
+      "plaintext": "8000",
+      "key": "0001",
+      "ciphertext": "BE05"
+    },
+    {
+      "plaintext": "7083",
+      "key": "AAE2",
+      "ciphertext": "F976"
+    },
+    {
+      "plaintext": "1323",
+      "key": "861E",
+      "ciphertext": "98AC"
+    },
+    {
+      "plaintext": "3F33",
+      "key": "ADB8",
+      "ciphertext": "FC5E"
+    },
+    {
+      "plaintext": "D337",
+      "key": "489E",
+      "ciphertext": "FFF7"
+    },
+    {
+      "plaintext": "521F",
+      "key": "2A7C",
+      "ciphertext": "C053"
+    },
+    {
+      "plaintext": "9180",
+      "key": "484C",
+      "ciphertext": "27CC"
+    },
+    {
+      "plaintext": "E1E6",
+      "key": "D534",
+      "ciphertext": "5DD8"
+    },
+    {
+      "plaintext": "2EC1",
+      "key": "1C22",
+      "ciphertext": "7753"
+    },
+    {
+      "plaintext": "ACB4",
+      "key": "C93F",
+      "ciphertext": "BE43"
+    },
+    {
+      "plaintext": "5E61",
+      "key": "7B32",
+      "ciphertext": "DD1B"
+    },
+    {
+      "plaintext": "C0BA",
+      "key": "4EEF",
+      "ciphertext": "51CD"
+    },
+    {
+      "plaintext": "0284",
+      "key": "EA33",
+      "ciphertext": "5822"
+    },
+    {
+      "plaintext": "5C7D",
+      "key": "8779",
+      "ciphertext": "C3E2"
+    },
+    {
+      "plaintext": "6762",
+      "key": "4245",
+      "ciphertext": "7C2A"
+    },
+    {
+      "plaintext": "338E",
+      "key": "F61C",
+      "ciphertext": "5712"
+    },
+    {
+      "plaintext": "2545",
+      "key": "FE44",
+      "ciphertext": "941B"
+    },
+    {
+      "plaintext": "FD81",
+      "key": "1856",
+      "ciphertext": "7FEA"
+    },
+    {
+      "plaintext": "7846",
+      "key": "2FA2",
+      "ciphertext": "4BDA"
+    },
+    {
+      "plaintext": "D46F",
+      "key": "BEE2",
+      "ciphertext": "D225"
+    },
+    {
+      "plaintext": "354A",
+      "key": "6B01",
+      "ciphertext": "7C70"
+    },
+    {
+      "plaintext": "89C3",
+      "key": "71DA",
+      "ciphertext": "4C1A"
+    },
+    {
+      "plaintext": "3181",
+      "key": "8BE9",
+      "ciphertext": "FBEA"
+    },
+    {
+      "plaintext": "8AC6",
+      "key": "670C",
+      "ciphertext": "5623"
+    },
+    {
+      "plaintext": "87FF",
+      "key": "B4B6",
+      "ciphertext": "AD98"
+    },
+    {
+      "plaintext": "29C0",
+      "key": "1451",
+      "ciphertext": "29E4"
+    },
+    {
+      "plaintext": "F11F",
+      "key": "EA62",
+      "ciphertext": "7F75"
+    },
+    {
+      "plaintext": "A815",
+      "key": "0703",
+      "ciphertext": "F7B0"
+    },
+    {
+      "plaintext": "C071",
+      "key": "9539",
+      "ciphertext": "727C"
+    },
+    {
+      "plaintext": "D95F",
+      "key": "2D02",
+      "ciphertext": "BA2A"
+    },
+    {
+      "plaintext": "A385",
+      "key": "43ED",
+      "ciphertext": "DF1A"
+    },
+    {
+      "plaintext": "C1D2",
+      "key": "5FE8",
+      "ciphertext": "CFEF"
+    },
+    {
+      "plaintext": "6577",
+      "key": "2AD9",
+      "ciphertext": "9508"
+    },
+    {
+      "plaintext": "9892",
+      "key": "D30D",
+      "ciphertext": "F572"
+    },
+    {
+      "plaintext": "950B",
+      "key": "BA83",
+      "ciphertext": "EEE7"
+    },
+    {
+      "plaintext": "FD00",
+      "key": "90AD",
+      "ciphertext": "2A1A"
+    },
+    {
+      "plaintext": "87F9",
+      "key": "3C2E",
+      "ciphertext": "86A1"
+    },
+    {
+      "plaintext": "7E58",
+      "key": "ADBB",
+      "ciphertext": "2BED"
+    },
+    {
+      "plaintext": "A2AB",
+      "key": "9106",
+      "ciphertext": "2B78"
+    },
+    {
+      "plaintext": "E669",
+      "key": "41DC",
+      "ciphertext": "517D"
+    },
+    {
+      "plaintext": "4CAA",
+      "key": "81A4",
+      "ciphertext": "9632"
+    },
+    {
+      "plaintext": "2D23",
+      "key": "18A9",
+      "ciphertext": "5F67"
+    },
+    {
+      "plaintext": "124E",
+      "key": "17C3",
+      "ciphertext": "FE59"
+    },
+    {
+      "plaintext": "9718",
+      "key": "7FF0",
+      "ciphertext": "9F47"
+    },
+    {
+      "plaintext": "7DA8",
+      "key": "44BB",
+      "ciphertext": "F42E"
+    },
+    {
+      "plaintext": "20B8",
+      "key": "38BA",
+      "ciphertext": "8369"
+    },
+    {
+      "plaintext": "442B",
+      "key": "FFEA",
+      "ciphertext": "1EFE"
+    },
+    {
+      "plaintext": "CBD4",
+      "key": "EF16",
+      "ciphertext": "3D66"
+    },
+    {
+      "plaintext": "6592",
+      "key": "6EBD",
+      "ciphertext": "20F8"
+    },
+    {
+      "plaintext": "176D",
+      "key": "0D41",
+      "ciphertext": "5190"
+    },
+    {
+      "plaintext": "5353",
+      "key": "7F3F",
+      "ciphertext": "D3B4"
+    },
+    {
+      "plaintext": "2F39",
+      "key": "228F",
+      "ciphertext": "77B1"
+    },
+    {
+      "plaintext": "92E0",
+      "key": "7AF6",
+      "ciphertext": "84AC"
+    },
+    {
+      "plaintext": "768E",
+      "key": "16FB",
+      "ciphertext": "1D62"
+    },
+    {
+      "plaintext": "ED50",
+      "key": "EED3",
+      "ciphertext": "A298"
+    },
+    {
+      "plaintext": "B806",
+      "key": "7DCE",
+      "ciphertext": "1E58"
+    },
+    {
+      "plaintext": "DB16",
+      "key": "AABB",
+      "ciphertext": "A102"
+    },
+    {
+      "plaintext": "D592",
+      "key": "F49A",
+      "ciphertext": "09BA"
+    },
+    {
+      "plaintext": "0676",
+      "key": "23D1",
+      "ciphertext": "A872"
+    },
+    {
+      "plaintext": "04BD",
+      "key": "65CF",
+      "ciphertext": "59CF"
+    },
+    {
+      "plaintext": "8AD0",
+      "key": "17D3",
+      "ciphertext": "16D4"
+    },
+    {
+      "plaintext": "18DB",
+      "key": "9C9D",
+      "ciphertext": "011B"
+    },
+    {
+      "plaintext": "8155",
+      "key": "CA0C",
+      "ciphertext": "2353"
+    },
+    {
+      "plaintext": "18CB",
+      "key": "498D",
+      "ciphertext": "AAC6"
+    },
+    {
+      "plaintext": "B2DF",
+      "key": "FE99",
+      "ciphertext": "8664"
+    },
+    {
+      "plaintext": "51DD",
+      "key": "C82E",
+      "ciphertext": "F458"
+    },
+    {
+      "plaintext": "9336",
+      "key": "3665",
+      "ciphertext": "3D48"
+    },
+    {
+      "plaintext": "397A",
+      "key": "78B0",
+      "ciphertext": "551E"
+    },
+    {
+      "plaintext": "69C7",
+      "key": "131D",
+      "ciphertext": "EA4C"
+    },
+    {
+      "plaintext": "98C2",
+      "key": "01B1",
+      "ciphertext": "9F30"
+    },
+    {
+      "plaintext": "EF5E",
+      "key": "519A",
+      "ciphertext": "B5CD"
+    },
+    {
+      "plaintext": "D9CE",
+      "key": "E1DD",
+      "ciphertext": "3B43"
+    },
+    {
+      "plaintext": "2BC4",
+      "key": "21E3",
+      "ciphertext": "B226"
+    },
+    {
+      "plaintext": "7ADF",
+      "key": "5249",
+      "ciphertext": "FA58"
+    },
+    {
+      "plaintext": "81B4",
+      "key": "BB1C",
+      "ciphertext": "0B68"
+    },
+    {
+      "plaintext": "0F88",
+      "key": "1E60",
+      "ciphertext": "CDD3"
+    },
+    {
+      "plaintext": "D629",
+      "key": "345F",
+      "ciphertext": "E2C0"
+    },
+    {
+      "plaintext": "31AD",
+      "key": "9357",
+      "ciphertext": "BF19"
+    },
+    {
+      "plaintext": "642E",
+      "key": "0A10",
+      "ciphertext": "447C"
+    },
+    {
+      "plaintext": "7238",
+      "key": "6693",
+      "ciphertext": "D812"
+    },
+    {
+      "plaintext": "9C15",
+      "key": "6E66",
+      "ciphertext": "F1F5"
+    },
+    {
+      "plaintext": "78D1",
+      "key": "F8FC",
+      "ciphertext": "AFB1"
+    },
+    {
+      "plaintext": "18CF",
+      "key": "A597",
+      "ciphertext": "A896"
+    },
+    {
+      "plaintext": "FD07",
+      "key": "C60C",
+      "ciphertext": "7362"
+    },
+    {
+      "plaintext": "5E01",
+      "key": "7D73",
+      "ciphertext": "D6B4"
+    },
+    {
+      "plaintext": "54F2",
+      "key": "C504",
+      "ciphertext": "25BA"
+    },
+    {
+      "plaintext": "5B80",
+      "key": "AD2C",
+      "ciphertext": "202D"
+    },
+    {
+      "plaintext": "0141",
+      "key": "903A",
+      "ciphertext": "1B99"
+    },
+    {
+      "plaintext": "EEC7",
+      "key": "638B",
+      "ciphertext": "E050"
+    },
+    {
+      "plaintext": "EB7F",
+      "key": "0B17",
+      "ciphertext": "A6C2"
+    },
+    {
+      "plaintext": "D1E0",
+      "key": "1ADE",
+      "ciphertext": "EC22"
+    },
+    {
+      "plaintext": "E800",
+      "key": "582B",
+      "ciphertext": "B1E9"
+    },
+    {
+      "plaintext": "6A17",
+      "key": "2479",
+      "ciphertext": "12D9"
+    },
+    {
+      "plaintext": "84A4",
+      "key": "AB20",
+      "ciphertext": "5DC8"
+    },
+    {
+      "plaintext": "F899",
+      "key": "A8F9",
+      "ciphertext": "0A54"
+    },
+    {
+      "plaintext": "F81F",
+      "key": "1072",
+      "ciphertext": "1D45"
+    },
+    {
+      "plaintext": "6AE5",
+      "key": "49B5",
+      "ciphertext": "8B13"
+    },
+    {
+      "plaintext": "11BD",
+      "key": "0254",
+      "ciphertext": "1B27"
+    },
+    {
+      "plaintext": "A790",
+      "key": "5667",
+      "ciphertext": "FB75"
+    },
+    {
+      "plaintext": "5224",
+      "key": "5C0A",
+      "ciphertext": "74B2"
+    },
+    {
+      "plaintext": "FB26",
+      "key": "1EC2",
+      "ciphertext": "73BD"
+    },
+    {
+      "plaintext": "A638",
+      "key": "298C",
+      "ciphertext": "A6A1"
+    },
+    {
+      "plaintext": "D310",
+      "key": "3407",
+      "ciphertext": "5EDC"
+    },
+    {
+      "plaintext": "465D",
+      "key": "E48D",
+      "ciphertext": "CD57"
+    },
+    {
+      "plaintext": "B48E",
+      "key": "4561",
+      "ciphertext": "E63F"
+    },
+    {
+      "plaintext": "A188",
+      "key": "B0EE",
+      "ciphertext": "4EB9"
+    },
+    {
+      "plaintext": "3D3C",
+      "key": "A859",
+      "ciphertext": "2DD1"
+    },
+    {
+      "plaintext": "B544",
+      "key": "1344",
+      "ciphertext": "FE08"
+    },
+    {
+      "plaintext": "C8A2",
+      "key": "93A6",
+      "ciphertext": "950D"
+    },
+    {
+      "plaintext": "C148",
+      "key": "0D5A",
+      "ciphertext": "302F"
+    },
+    {
+      "plaintext": "478A",
+      "key": "B9B2",
+      "ciphertext": "DE73"
+    },
+    {
+      "plaintext": "DA0B",
+      "key": "AB4D",
+      "ciphertext": "BFC9"
+    },
+    {
+      "plaintext": "C032",
+      "key": "96D9",
+      "ciphertext": "BEF1"
+    },
+    {
+      "plaintext": "073E",
+      "key": "F66E",
+      "ciphertext": "C807"
+    },
+    {
+      "plaintext": "BD89",
+      "key": "803A",
+      "ciphertext": "3BA1"
+    },
+    {
+      "plaintext": "327A",
+      "key": "6549",
+      "ciphertext": "E1EA"
+    },
+    {
+      "plaintext": "77B8",
+      "key": "EADD",
+      "ciphertext": "6152"
+    },
+    {
+      "plaintext": "8372",
+      "key": "F8EA",
+      "ciphertext": "8D60"
+    },
+    {
+      "plaintext": "3A87",
+      "key": "47B8",
+      "ciphertext": "C611"
+    },
+    {
+      "plaintext": "179E",
+      "key": "5A53",
+      "ciphertext": "BBA5"
+    },
+    {
+      "plaintext": "C5A7",
+      "key": "69EC",
+      "ciphertext": "EF01"
+    },
+    {
+      "plaintext": "4630",
+      "key": "521A",
+      "ciphertext": "0DB7"
+    },
+    {
+      "plaintext": "00EF",
+      "key": "2FA1",
+      "ciphertext": "C4E3"
+    },
+    {
+      "plaintext": "FD0F",
+      "key": "4325",
+      "ciphertext": "D013"
+    },
+    {
+      "plaintext": "E5F0",
+      "key": "ACF6",
+      "ciphertext": "34FD"
+    },
+    {
+      "plaintext": "4FDD",
+      "key": "B9E1",
+      "ciphertext": "0552"
+    },
+    {
+      "plaintext": "489E",
+      "key": "AEBE",
+      "ciphertext": "C438"
+    },
+    {
+      "plaintext": "5FCB",
+      "key": "9E59",
+      "ciphertext": "C7B8"
+    },
+    {
+      "plaintext": "D6A0",
+      "key": "3121",
+      "ciphertext": "78D7"
+    },
+    {
+      "plaintext": "5EB6",
+      "key": "8A2F",
+      "ciphertext": "71E9"
+    },
+    {
+      "plaintext": "B212",
+      "key": "87CB",
+      "ciphertext": "0077"
+    },
+    {
+      "plaintext": "C8C6",
+      "key": "E55A",
+      "ciphertext": "8959"
+    },
+    {
+      "plaintext": "DD6E",
+      "key": "A95F",
+      "ciphertext": "8835"
+    },
+    {
+      "plaintext": "156D",
+      "key": "592B",
+      "ciphertext": "AEA7"
+    },
+    {
+      "plaintext": "0C2E",
+      "key": "837D",
+      "ciphertext": "4227"
+    },
+    {
+      "plaintext": "99C4",
+      "key": "F010",
+      "ciphertext": "50D0"
+    },
+    {
+      "plaintext": "4EE4",
+      "key": "B925",
+      "ciphertext": "12AA"
+    },
+    {
+      "plaintext": "495D",
+      "key": "23F1",
+      "ciphertext": "719A"
+    },
+    {
+      "plaintext": "0E1C",
+      "key": "80B5",
+      "ciphertext": "D1B5"
+    },
+    {
+      "plaintext": "2344",
+      "key": "3D73",
+      "ciphertext": "B269"
+    },
+    {
+      "plaintext": "D97F",
+      "key": "CA56",
+      "ciphertext": "8FA4"
+    },
+    {
+      "plaintext": "4FFC",
+      "key": "661A",
+      "ciphertext": "1E20"
+    },
+    {
+      "plaintext": "D22F",
+      "key": "1FA1",
+      "ciphertext": "79A5"
+    },
+    {
+      "plaintext": "3B79",
+      "key": "0F98",
+      "ciphertext": "4C96"
+    },
+    {
+      "plaintext": "7061",
+      "key": "D197",
+      "ciphertext": "6696"
+    },
+    {
+      "plaintext": "AB12",
+      "key": "7E14",
+      "ciphertext": "EF28"
+    },
+    {
+      "plaintext": "8AB1",
+      "key": "76F2",
+      "ciphertext": "BED3"
+    },
+    {
+      "plaintext": "5003",
+      "key": "D3D3",
+      "ciphertext": "204F"
+    },
+    {
+      "plaintext": "782D",
+      "key": "32A8",
+      "ciphertext": "33D7"
+    },
+    {
+      "plaintext": "3CAC",
+      "key": "CCBC",
+      "ciphertext": "E625"
+    },
+    {
+      "plaintext": "B2D4",
+      "key": "F333",
+      "ciphertext": "4788"
+    },
+    {
+      "plaintext": "5D6D",
+      "key": "D0F3",
+      "ciphertext": "49EC"
+    },
+    {
+      "plaintext": "8BD6",
+      "key": "D3FC",
+      "ciphertext": "A5FD"
+    },
+    {
+      "plaintext": "0621",
+      "key": "6821",
+      "ciphertext": "BBC9"
+    },
+    {
+      "plaintext": "EF8B",
+      "key": "B950",
+      "ciphertext": "A150"
+    },
+    {
+      "plaintext": "B2FB",
+      "key": "8AD7",
+      "ciphertext": "E17B"
+    },
+    {
+      "plaintext": "FAAD",
+      "key": "1672",
+      "ciphertext": "F771"
+    },
+    {
+      "plaintext": "F013",
+      "key": "301D",
+      "ciphertext": "D37F"
+    },
+    {
+      "plaintext": "51C1",
+      "key": "61D1",
+      "ciphertext": "D758"
+    },
+    {
+      "plaintext": "7354",
+      "key": "4DE4",
+      "ciphertext": "C447"
+    },
+    {
+      "plaintext": "CE2A",
+      "key": "324B",
+      "ciphertext": "ACEA"
+    },
+    {
+      "plaintext": "5F98",
+      "key": "B8F6",
+      "ciphertext": "42D9"
+    },
+    {
+      "plaintext": "0E56",
+      "key": "4212",
+      "ciphertext": "8187"
+    },
+    {
+      "plaintext": "B765",
+      "key": "C21C",
+      "ciphertext": "A845"
+    },
+    {
+      "plaintext": "7C6B",
+      "key": "4CC4",
+      "ciphertext": "E054"
+    },
+    {
+      "plaintext": "1AA5",
+      "key": "73C0",
+      "ciphertext": "2C86"
+    },
+    {
+      "plaintext": "6F77",
+      "key": "24B5",
+      "ciphertext": "43B0"
+    },
+    {
+      "plaintext": "DC4C",
+      "key": "0E3D",
+      "ciphertext": "0590"
+    },
+    {
+      "plaintext": "BAF2",
+      "key": "7F19",
+      "ciphertext": "A7DB"
+    },
+    {
+      "plaintext": "A7F1",
+      "key": "64C2",
+      "ciphertext": "DDDC"
+    },
+    {
+      "plaintext": "6F71",
+      "key": "FE37",
+      "ciphertext": "34D2"
+    },
+    {
+      "plaintext": "9EA2",
+      "key": "C64F",
+      "ciphertext": "AD1E"
+    },
+    {
+      "plaintext": "8B0B",
+      "key": "BCC5",
+      "ciphertext": "9EFB"
+    },
+    {
+      "plaintext": "F9E8",
+      "key": "55BD",
+      "ciphertext": "6B7E"
+    },
+    {
+      "plaintext": "1303",
+      "key": "CCA9",
+      "ciphertext": "2A31"
+    },
+    {
+      "plaintext": "C42F",
+      "key": "C8A1",
+      "ciphertext": "8790"
+    },
+    {
+      "plaintext": "D737",
+      "key": "AF94",
+      "ciphertext": "7268"
+    },
+    {
+      "plaintext": "4A6D",
+      "key": "D01B",
+      "ciphertext": "87F3"
+    },
+    {
+      "plaintext": "1171",
+      "key": "86ED",
+      "ciphertext": "221A"
+    },
+    {
+      "plaintext": "09EE",
+      "key": "9ADE",
+      "ciphertext": "2C44"
+    },
+    {
+      "plaintext": "E991",
+      "key": "7064",
+      "ciphertext": "01AD"
+    },
+    {
+      "plaintext": "01D6",
+      "key": "6088",
+      "ciphertext": "60E6"
+    },
+    {
+      "plaintext": "E5AE",
+      "key": "0A23",
+      "ciphertext": "F3C2"
+    },
+    {
+      "plaintext": "598F",
+      "key": "B753",
+      "ciphertext": "0D76"
+    },
+    {
+      "plaintext": "ABA9",
+      "key": "49BA",
+      "ciphertext": "4DF9"
+    },
+    {
+      "plaintext": "4EAF",
+      "key": "D20B",
+      "ciphertext": "DF1C"
+    },
+    {
+      "plaintext": "C743",
+      "key": "DD74",
+      "ciphertext": "475C"
+    },
+    {
+      "plaintext": "2089",
+      "key": "7BFE",
+      "ciphertext": "13E7"
+    },
+    {
+      "plaintext": "B278",
+      "key": "34D7",
+      "ciphertext": "6014"
+    },
+    {
+      "plaintext": "6CE5",
+      "key": "4AA5",
+      "ciphertext": "872E"
+    },
+    {
+      "plaintext": "8D57",
+      "key": "8605",
+      "ciphertext": "A5F4"
+    },
+    {
+      "plaintext": "5D99",
+      "key": "E043",
+      "ciphertext": "E185"
+    },
+    {
+      "plaintext": "8493",
+      "key": "2E86",
+      "ciphertext": "66B4"
+    },
+    {
+      "plaintext": "277A",
+      "key": "BF57",
+      "ciphertext": "51EA"
+    },
+    {
+      "plaintext": "EE03",
+      "key": "8A01",
+      "ciphertext": "705B"
+    },
+    {
+      "plaintext": "0FC0",
+      "key": "5CAB",
+      "ciphertext": "3145"
+    },
+    {
+      "plaintext": "E4E7",
+      "key": "3DFF",
+      "ciphertext": "CCA0"
+    },
+    {
+      "plaintext": "534C",
+      "key": "DAA6",
+      "ciphertext": "1AC7"
+    },
+    {
+      "plaintext": "6799",
+      "key": "914B",
+      "ciphertext": "7ED1"
+    },
+    {
+      "plaintext": "D017",
+      "key": "B3A3",
+      "ciphertext": "6C3F"
+    },
+    {
+      "plaintext": "840F",
+      "key": "65F8",
+      "ciphertext": "2372"
+    },
+    {
+      "plaintext": "50D7",
+      "key": "E15A",
+      "ciphertext": "3AEB"
+    },
+    {
+      "plaintext": "7E85",
+      "key": "572E",
+      "ciphertext": "70CE"
+    },
+    {
+      "plaintext": "D5DA",
+      "key": "0131",
+      "ciphertext": "3A7B"
+    },
+    {
+      "plaintext": "5AA1",
+      "key": "7EF8",
+      "ciphertext": "D701"
+    },
+    {
+      "plaintext": "CD2B",
+      "key": "C7BA",
+      "ciphertext": "7B97"
+    },
+    {
+      "plaintext": "7599",
+      "key": "EB8B",
+      "ciphertext": "C3A2"
+    },
+    {
+      "plaintext": "ABC0",
+      "key": "3616",
+      "ciphertext": "8DB6"
+    },
+    {
+      "plaintext": "A6CF",
+      "key": "2E8C",
+      "ciphertext": "8C05"
+    },
+    {
+      "plaintext": "16A2",
+      "key": "5A63",
+      "ciphertext": "7D3F"
+    },
+    {
+      "plaintext": "2B98",
+      "key": "1914",
+      "ciphertext": "5AE6"
+    },
+    {
+      "plaintext": "EFEB",
+      "key": "4AA9",
+      "ciphertext": "FCCD"
+    },
+    {
+      "plaintext": "B780",
+      "key": "B69E",
+      "ciphertext": "3B0D"
+    },
+    {
+      "plaintext": "81F7",
+      "key": "5E7F",
+      "ciphertext": "3348"
+    },
+    {
+      "plaintext": "3AE1",
+      "key": "3D7E",
+      "ciphertext": "504B"
+    },
+    {
+      "plaintext": "7568",
+      "key": "9F15",
+      "ciphertext": "6D0D"
+    },
+    {
+      "plaintext": "6C2B",
+      "key": "5BFB",
+      "ciphertext": "DFF8"
+    },
+    {
+      "plaintext": "3CB3",
+      "key": "987A",
+      "ciphertext": "5225"
+    },
+    {
+      "plaintext": "D836",
+      "key": "829D",
+      "ciphertext": "8B1D"
+    },
+    {
+      "plaintext": "EE66",
+      "key": "10E4",
+      "ciphertext": "A8F4"
+    },
+    {
+      "plaintext": "3B93",
+      "key": "1B38",
+      "ciphertext": "889A"
+    },
+    {
+      "plaintext": "2932",
+      "key": "40D6",
+      "ciphertext": "F775"
+    },
+    {
+      "plaintext": "5108",
+      "key": "14CA",
+      "ciphertext": "01B0"
+    },
+    {
+      "plaintext": "4702",
+      "key": "4115",
+      "ciphertext": "CA43"
+    },
+    {
+      "plaintext": "8ABA",
+      "key": "0817",
+      "ciphertext": "54B9"
+    },
+    {
+      "plaintext": "3E54",
+      "key": "5E02",
+      "ciphertext": "74F5"
+    },
+    {
+      "plaintext": "8A1B",
+      "key": "3450",
+      "ciphertext": "E3C5"
+    },
+    {
+      "plaintext": "E021",
+      "key": "D75C",
+      "ciphertext": "DC9A"
+    },
+    {
+      "plaintext": "BA70",
+      "key": "AC56",
+      "ciphertext": "C4E9"
+    },
+    {
+      "plaintext": "BB4F",
+      "key": "1EEC",
+      "ciphertext": "FE4F"
+    },
+    {
+      "plaintext": "83EF",
+      "key": "A182",
+      "ciphertext": "DC2E"
+    },
+    {
+      "plaintext": "A16A",
+      "key": "A81A",
+      "ciphertext": "BC54"
+    },
+    {
+      "plaintext": "132A",
+      "key": "A81E",
+      "ciphertext": "33BC"
+    },
+    {
+      "plaintext": "DC68",
+      "key": "4E33",
+      "ciphertext": "EEB1"
+    },
+    {
+      "plaintext": "329E",
+      "key": "576B",
+      "ciphertext": "A9BB"
+    },
+    {
+      "plaintext": "43A2",
+      "key": "F980",
+      "ciphertext": "130A"
+    },
+    {
+      "plaintext": "243F",
+      "key": "E5B2",
+      "ciphertext": "C0F9"
+    },
+    {
+      "plaintext": "7870",
+      "key": "401C",
+      "ciphertext": "A6E2"
+    },
+    {
+      "plaintext": "CCCB",
+      "key": "BB87",
+      "ciphertext": "DD60"
+    },
+    {
+      "plaintext": "D060",
+      "key": "0C18",
+      "ciphertext": "7CC4"
+    },
+    {
+      "plaintext": "A257",
+      "key": "E056",
+      "ciphertext": "15F8"
+    },
+    {
+      "plaintext": "BD49",
+      "key": "FB64",
+      "ciphertext": "CB94"
+    },
+    {
+      "plaintext": "9B91",
+      "key": "2707",
+      "ciphertext": "E770"
+    },
+    {
+      "plaintext": "EC73",
+      "key": "A9FA",
+      "ciphertext": "9F6A"
+    },
+    {
+      "plaintext": "3742",
+      "key": "8687",
+      "ciphertext": "9647"
+    },
+    {
+      "plaintext": "A76D",
+      "key": "1673",
+      "ciphertext": "E77B"
+    },
+    {
+      "plaintext": "3EBC",
+      "key": "5B19",
+      "ciphertext": "F5A0"
+    },
+    {
+      "plaintext": "025C",
+      "key": "F77C",
+      "ciphertext": "8A1D"
+    },
+    {
+      "plaintext": "6F43",
+      "key": "F5E5",
+      "ciphertext": "8BC3"
+    },
+    {
+      "plaintext": "185C",
+      "key": "95F7",
+      "ciphertext": "9254"
+    },
+    {
+      "plaintext": "858C",
+      "key": "1BEF",
+      "ciphertext": "67A3"
+    },
+    {
+      "plaintext": "9CD2",
+      "key": "FAAD",
+      "ciphertext": "0755"
+    },
+    {
+      "plaintext": "D22F",
+      "key": "B3B1",
+      "ciphertext": "822F"
+    },
+    {
+      "plaintext": "DE12",
+      "key": "7EC1",
+      "ciphertext": "7276"
+    },
+    {
+      "plaintext": "518C",
+      "key": "CE25",
+      "ciphertext": "593F"
+    },
+    {
+      "plaintext": "BE61",
+      "key": "A2F9",
+      "ciphertext": "8467"
+    },
+    {
+      "plaintext": "0AF3",
+      "key": "9128",
+      "ciphertext": "D4F0"
+    },
+    {
+      "plaintext": "0526",
+      "key": "C8AF",
+      "ciphertext": "006A"
+    },
+    {
+      "plaintext": "6AF5",
+      "key": "7429",
+      "ciphertext": "782A"
+    },
+    {
+      "plaintext": "5B8C",
+      "key": "B8DF",
+      "ciphertext": "1C60"
+    },
+    {
+      "plaintext": "575D",
+      "key": "F90F",
+      "ciphertext": "B426"
+    },
+    {
+      "plaintext": "54DE",
+      "key": "FA3F",
+      "ciphertext": "7CE5"
+    },
+    {
+      "plaintext": "E65D",
+      "key": "34B7",
+      "ciphertext": "DDC6"
+    },
+    {
+      "plaintext": "9FD7",
+      "key": "03E3",
+      "ciphertext": "E01F"
+    },
+    {
+      "plaintext": "C30D",
+      "key": "7A19",
+      "ciphertext": "CAE2"
+    },
+    {
+      "plaintext": "9039",
+      "key": "48BE",
+      "ciphertext": "1B83"
+    },
+    {
+      "plaintext": "5B0B",
+      "key": "DE5A",
+      "ciphertext": "EF6A"
+    },
+    {
+      "plaintext": "65E8",
+      "key": "299F",
+      "ciphertext": "61A5"
+    },
+    {
+      "plaintext": "FF6F",
+      "key": "FA91",
+      "ciphertext": "9DA0"
+    },
+    {
+      "plaintext": "351B",
+      "key": "7D21",
+      "ciphertext": "85BB"
+    },
+    {
+      "plaintext": "457A",
+      "key": "7F9B",
+      "ciphertext": "AB21"
+    },
+    {
+      "plaintext": "CF9B",
+      "key": "64F6",
+      "ciphertext": "783A"
+    },
+    {
+      "plaintext": "6E04",
+      "key": "4392",
+      "ciphertext": "E780"
+    },
+    {
+      "plaintext": "2CA9",
+      "key": "4915",
+      "ciphertext": "107C"
+    },
+    {
+      "plaintext": "264E",
+      "key": "3E36",
+      "ciphertext": "7646"
+    },
+    {
+      "plaintext": "7A59",
+      "key": "799C",
+      "ciphertext": "A93A"
+    },
+    {
+      "plaintext": "8CF4",
+      "key": "4A24",
+      "ciphertext": "8FF3"
+    },
+    {
+      "plaintext": "AD40",
+      "key": "4328",
+      "ciphertext": "2976"
+    },
+    {
+      "plaintext": "D495",
+      "key": "C02B",
+      "ciphertext": "0202"
+    },
+    {
+      "plaintext": "B722",
+      "key": "23B4",
+      "ciphertext": "2821"
+    },
+    {
+      "plaintext": "E228",
+      "key": "0810",
+      "ciphertext": "FDD2"
+    },
+    {
+      "plaintext": "327B",
+      "key": "5D65",
+      "ciphertext": "8889"
+    },
+    {
+      "plaintext": "E8B1",
+      "key": "A424",
+      "ciphertext": "4F15"
+    },
+    {
+      "plaintext": "973E",
+      "key": "868A",
+      "ciphertext": "2CD3"
+    },
+    {
+      "plaintext": "2B4C",
+      "key": "3609",
+      "ciphertext": "0F95"
+    },
+    {
+      "plaintext": "4CEA",
+      "key": "ECC7",
+      "ciphertext": "AEFF"
+    },
+    {
+      "plaintext": "0E89",
+      "key": "A8F1",
+      "ciphertext": "4931"
+    },
+    {
+      "plaintext": "D52C",
+      "key": "565A",
+      "ciphertext": "E5D1"
+    },
+    {
+      "plaintext": "8787",
+      "key": "4C6E",
+      "ciphertext": "5CD4"
+    },
+    {
+      "plaintext": "6E17",
+      "key": "D7BC",
+      "ciphertext": "4EE5"
+    },
+    {
+      "plaintext": "DC2A",
+      "key": "A130",
+      "ciphertext": "7948"
+    },
+    {
+      "plaintext": "9024",
+      "key": "4C9B",
+      "ciphertext": "272E"
+    },
+    {
+      "plaintext": "978D",
+      "key": "E6D8",
+      "ciphertext": "EF09"
+    },
+    {
+      "plaintext": "18FF",
+      "key": "DE96",
+      "ciphertext": "CCA8"
+    },
+    {
+      "plaintext": "5947",
+      "key": "AE9F",
+      "ciphertext": "F302"
+    },
+    {
+      "plaintext": "72B6",
+      "key": "EB6F",
+      "ciphertext": "DDD8"
+    },
+    {
+      "plaintext": "4E6F",
+      "key": "CC34",
+      "ciphertext": "A9A3"
+    },
+    {
+      "plaintext": "4625",
+      "key": "3C84",
+      "ciphertext": "3AB9"
+    },
+    {
+      "plaintext": "97DE",
+      "key": "4BE8",
+      "ciphertext": "F911"
+    },
+    {
+      "plaintext": "2711",
+      "key": "61EA",
+      "ciphertext": "7C4F"
+    },
+    {
+      "plaintext": "F8EF",
+      "key": "A664",
+      "ciphertext": "63D4"
+    },
+    {
+      "plaintext": "79C2",
+      "key": "3C60",
+      "ciphertext": "881A"
+    },
+    {
+      "plaintext": "4AA8",
+      "key": "829E",
+      "ciphertext": "22D8"
+    },
+    {
+      "plaintext": "282C",
+      "key": "347A",
+      "ciphertext": "9616"
+    },
+    {
+      "plaintext": "F43C",
+      "key": "728A",
+      "ciphertext": "41EA"
+    },
+    {
+      "plaintext": "AC48",
+      "key": "1080",
+      "ciphertext": "D77A"
+    },
+    {
+      "plaintext": "987A",
+      "key": "7668",
+      "ciphertext": "4971"
+    },
+    {
+      "plaintext": "FF59",
+      "key": "3E55",
+      "ciphertext": "247A"
+    },
+    {
+      "plaintext": "DBB1",
+      "key": "700D",
+      "ciphertext": "2E18"
+    },
+    {
+      "plaintext": "1CC1",
+      "key": "C950",
+      "ciphertext": "1AF2"
+    },
+    {
+      "plaintext": "60C2",
+      "key": "2293",
+      "ciphertext": "E844"
+    },
+    {
+      "plaintext": "B65E",
+      "key": "DC3C",
+      "ciphertext": "E99F"
+    },
+    {
+      "plaintext": "99D6",
+      "key": "96B4",
+      "ciphertext": "895F"
+    },
+    {
+      "plaintext": "B382",
+      "key": "96DF",
+      "ciphertext": "414A"
+    },
+    {
+      "plaintext": "3CE7",
+      "key": "C0EB",
+      "ciphertext": "8D15"
+    },
+    {
+      "plaintext": "B745",
+      "key": "709F",
+      "ciphertext": "872E"
+    },
+    {
+      "plaintext": "FCEC",
+      "key": "7A03",
+      "ciphertext": "0A49"
+    },
+    {
+      "plaintext": "F7B1",
+      "key": "CF6E",
+      "ciphertext": "D310"
+    },
+    {
+      "plaintext": "B9A1",
+      "key": "D33F",
+      "ciphertext": "FBEF"
+    },
+    {
+      "plaintext": "CF9E",
+      "key": "1D5F",
+      "ciphertext": "D3FD"
+    },
+    {
+      "plaintext": "1609",
+      "key": "8DA9",
+      "ciphertext": "6E93"
+    },
+    {
+      "plaintext": "56A1",
+      "key": "719C",
+      "ciphertext": "AA57"
+    },
+    {
+      "plaintext": "6696",
+      "key": "47E9",
+      "ciphertext": "AB14"
+    },
+    {
+      "plaintext": "AC91",
+      "key": "A2C0",
+      "ciphertext": "3A73"
+    },
+    {
+      "plaintext": "D8AA",
+      "key": "9F80",
+      "ciphertext": "8A7F"
+    },
+    {
+      "plaintext": "C672",
+      "key": "AD37",
+      "ciphertext": "305E"
+    },
+    {
+      "plaintext": "5BC0",
+      "key": "D2D0",
+      "ciphertext": "56CB"
+    },
+    {
+      "plaintext": "523F",
+      "key": "A890",
+      "ciphertext": "3000"
+    },
+    {
+      "plaintext": "2AB5",
+      "key": "C5B8",
+      "ciphertext": "770E"
+    },
+    {
+      "plaintext": "281B",
+      "key": "6191",
+      "ciphertext": "6BE0"
+    },
+    {
+      "plaintext": "6939",
+      "key": "7427",
+      "ciphertext": "E57B"
+    },
+    {
+      "plaintext": "F1B7",
+      "key": "3A7B",
+      "ciphertext": "22E4"
+    },
+    {
+      "plaintext": "2318",
+      "key": "8179",
+      "ciphertext": "B111"
+    },
+    {
+      "plaintext": "9921",
+      "key": "9CAE",
+      "ciphertext": "17B1"
+    },
+    {
+      "plaintext": "1601",
+      "key": "476F",
+      "ciphertext": "AB4C"
+    },
+    {
+      "plaintext": "3A6B",
+      "key": "3E57",
+      "ciphertext": "1B40"
+    },
+    {
+      "plaintext": "27B9",
+      "key": "BE82",
+      "ciphertext": "F61D"
+    },
+    {
+      "plaintext": "5D1B",
+      "key": "83B7",
+      "ciphertext": "C98C"
+    },
+    {
+      "plaintext": "BFA7",
+      "key": "AC94",
+      "ciphertext": "85F4"
+    },
+    {
+      "plaintext": "3F8E",
+      "key": "5316",
+      "ciphertext": "ABDE"
+    },
+    {
+      "plaintext": "0E05",
+      "key": "8C40",
+      "ciphertext": "DFCD"
+    },
+    {
+      "plaintext": "B7B0",
+      "key": "771B",
+      "ciphertext": "5934"
+    },
+    {
+      "plaintext": "7D7E",
+      "key": "85CB",
+      "ciphertext": "3809"
+    },
+    {
+      "plaintext": "4D58",
+      "key": "BB86",
+      "ciphertext": "A9B3"
+    },
+    {
+      "plaintext": "A953",
+      "key": "ED99",
+      "ciphertext": "DEB8"
+    },
+    {
+      "plaintext": "1605",
+      "key": "5A97",
+      "ciphertext": "FF58"
+    },
+    {
+      "plaintext": "757B",
+      "key": "0840",
+      "ciphertext": "50D5"
+    },
+    {
+      "plaintext": "8CEF",
+      "key": "1AB5",
+      "ciphertext": "7B9A"
+    },
+    {
+      "plaintext": "B2FA",
+      "key": "B889",
+      "ciphertext": "D52E"
+    },
+    {
+      "plaintext": "C342",
+      "key": "6B52",
+      "ciphertext": "90FD"
+    },
+    {
+      "plaintext": "A001",
+      "key": "9A75",
+      "ciphertext": "34E6"
+    },
+    {
+      "plaintext": "A7FD",
+      "key": "6C2B",
+      "ciphertext": "5A1F"
+    },
+    {
+      "plaintext": "657B",
+      "key": "140D",
+      "ciphertext": "03E2"
+    },
+    {
+      "plaintext": "1DD2",
+      "key": "3B15",
+      "ciphertext": "C96B"
+    },
+    {
+      "plaintext": "D68E",
+      "key": "1947",
+      "ciphertext": "26FA"
+    },
+    {
+      "plaintext": "C00C",
+      "key": "E3EE",
+      "ciphertext": "E0DD"
+    },
+    {
+      "plaintext": "6561",
+      "key": "14B5",
+      "ciphertext": "DFD0"
+    },
+    {
+      "plaintext": "FA66",
+      "key": "2D91",
+      "ciphertext": "7701"
+    },
+    {
+      "plaintext": "8D6F",
+      "key": "2858",
+      "ciphertext": "8BA6"
+    },
+    {
+      "plaintext": "521E",
+      "key": "FE35",
+      "ciphertext": "CE9C"
+    },
+    {
+      "plaintext": "7F2B",
+      "key": "935E",
+      "ciphertext": "049D"
+    },
+    {
+      "plaintext": "4971",
+      "key": "63C2",
+      "ciphertext": "4D24"
+    },
+    {
+      "plaintext": "8540",
+      "key": "09F4",
+      "ciphertext": "CE02"
+    },
+    {
+      "plaintext": "7633",
+      "key": "646C",
+      "ciphertext": "AEF7"
+    },
+    {
+      "plaintext": "3884",
+      "key": "8FA4",
+      "ciphertext": "13A1"
+    },
+    {
+      "plaintext": "E9BF",
+      "key": "F950",
+      "ciphertext": "AD8F"
+    },
+    {
+      "plaintext": "9272",
+      "key": "48B1",
+      "ciphertext": "77F4"
+    },
+    {
+      "plaintext": "4273",
+      "key": "8FA1",
+      "ciphertext": "0E87"
+    },
+    {
+      "plaintext": "4A9B",
+      "key": "25FA",
+      "ciphertext": "B102"
+    },
+    {
+      "plaintext": "E387",
+      "key": "D9DB",
+      "ciphertext": "F22C"
+    },
+    {
+      "plaintext": "3B8F",
+      "key": "8F64",
+      "ciphertext": "F1F1"
+    },
+    {
+      "plaintext": "A158",
+      "key": "A55A",
+      "ciphertext": "F5E3"
+    },
+    {
+      "plaintext": "E848",
+      "key": "010B",
+      "ciphertext": "C278"
+    },
+    {
+      "plaintext": "5B93",
+      "key": "FDA4",
+      "ciphertext": "575B"
+    },
+    {
+      "plaintext": "5EF0",
+      "key": "31DA",
+      "ciphertext": "2B40"
+    },
+    {
+      "plaintext": "D20C",
+      "key": "7ED0",
+      "ciphertext": "77EF"
+    },
+    {
+      "plaintext": "BCC5",
+      "key": "6518",
+      "ciphertext": "AB70"
+    },
+    {
+      "plaintext": "AF3C",
+      "key": "D371",
+      "ciphertext": "5EEE"
+    },
+    {
+      "plaintext": "132E",
+      "key": "1A19",
+      "ciphertext": "C95B"
+    },
+    {
+      "plaintext": "52B1",
+      "key": "96A5",
+      "ciphertext": "685A"
+    },
+    {
+      "plaintext": "EE5B",
+      "key": "7049",
+      "ciphertext": "797C"
+    },
+    {
+      "plaintext": "65C6",
+      "key": "8551",
+      "ciphertext": "AD33"
+    },
+    {
+      "plaintext": "A031",
+      "key": "1753",
+      "ciphertext": "7B1F"
+    },
+    {
+      "plaintext": "9138",
+      "key": "2BF1",
+      "ciphertext": "2ECF"
+    },
+    {
+      "plaintext": "3710",
+      "key": "F232",
+      "ciphertext": "ABA5"
+    },
+    {
+      "plaintext": "4C94",
+      "key": "6B11",
+      "ciphertext": "B5DB"
+    },
+    {
+      "plaintext": "F28F",
+      "key": "5CB1",
+      "ciphertext": "C6E2"
+    },
+    {
+      "plaintext": "EADC",
+      "key": "D0DF",
+      "ciphertext": "E22F"
+    },
+    {
+      "plaintext": "F74B",
+      "key": "6112",
+      "ciphertext": "D7D4"
+    },
+    {
+      "plaintext": "92E1",
+      "key": "A482",
+      "ciphertext": "04D0"
+    },
+    {
+      "plaintext": "102C",
+      "key": "F54B",
+      "ciphertext": "0C0F"
+    },
+    {
+      "plaintext": "3A8D",
+      "key": "80B8",
+      "ciphertext": "2939"
+    },
+    {
+      "plaintext": "B3FD",
+      "key": "4F59",
+      "ciphertext": "EEC6"
+    },
+    {
+      "plaintext": "58CF",
+      "key": "2EE7",
+      "ciphertext": "0CBA"
+    },
+    {
+      "plaintext": "429C",
+      "key": "2CD8",
+      "ciphertext": "EBFE"
+    },
+    {
+      "plaintext": "BD9F",
+      "key": "E667",
+      "ciphertext": "0E8A"
+    },
+    {
+      "plaintext": "ADA1",
+      "key": "E72D",
+      "ciphertext": "BE44"
+    },
+    {
+      "plaintext": "4A33",
+      "key": "0B21",
+      "ciphertext": "1BAE"
+    },
+    {
+      "plaintext": "99AD",
+      "key": "8808",
+      "ciphertext": "F70B"
+    },
+    {
+      "plaintext": "ACC0",
+      "key": "48E6",
+      "ciphertext": "DDDE"
+    },
+    {
+      "plaintext": "B308",
+      "key": "F2F0",
+      "ciphertext": "AECE"
+    },
+    {
+      "plaintext": "75CB",
+      "key": "245C",
+      "ciphertext": "EFEA"
+    },
+    {
+      "plaintext": "8B75",
+      "key": "688A",
+      "ciphertext": "FF5B"
+    },
+    {
+      "plaintext": "7B64",
+      "key": "5DBE",
+      "ciphertext": "ED55"
+    },
+    {
+      "plaintext": "2FEE",
+      "key": "2FF5",
+      "ciphertext": "908A"
+    },
+    {
+      "plaintext": "9CE9",
+      "key": "C390",
+      "ciphertext": "7818"
+    },
+    {
+      "plaintext": "C76E",
+      "key": "97F6",
+      "ciphertext": "9DC4"
+    },
+    {
+      "plaintext": "B9BC",
+      "key": "4929",
+      "ciphertext": "3CDB"
+    },
+    {
+      "plaintext": "4852",
+      "key": "81B0",
+      "ciphertext": "3A34"
+    },
+    {
+      "plaintext": "EAE2",
+      "key": "519D",
+      "ciphertext": "83EB"
+    },
+    {
+      "plaintext": "4C60",
+      "key": "129F",
+      "ciphertext": "32F1"
+    },
+    {
+      "plaintext": "514A",
+      "key": "5528",
+      "ciphertext": "11DF"
+    },
+    {
+      "plaintext": "7616",
+      "key": "A799",
+      "ciphertext": "BCAC"
+    },
+    {
+      "plaintext": "17B3",
+      "key": "0A44",
+      "ciphertext": "59F4"
+    },
+    {
+      "plaintext": "A157",
+      "key": "8232",
+      "ciphertext": "7308"
+    },
+    {
+      "plaintext": "47E2",
+      "key": "9011",
+      "ciphertext": "3EE6"
+    },
+    {
+      "plaintext": "5CB0",
+      "key": "E2C3",
+      "ciphertext": "DBF5"
+    },
+    {
+      "plaintext": "EDCA",
+      "key": "E387",
+      "ciphertext": "FA66"
+    },
+    {
+      "plaintext": "5AB6",
+      "key": "1A35",
+      "ciphertext": "1AA5"
+    },
+    {
+      "plaintext": "974F",
+      "key": "6434",
+      "ciphertext": "5346"
+    },
+    {
+      "plaintext": "134F",
+      "key": "52A4",
+      "ciphertext": "F19D"
+    },
+    {
+      "plaintext": "80F2",
+      "key": "7CEE",
+      "ciphertext": "7648"
+    },
+    {
+      "plaintext": "CECB",
+      "key": "0150",
+      "ciphertext": "FAD5"
+    },
+    {
+      "plaintext": "C7CB",
+      "key": "7F9F",
+      "ciphertext": "1037"
+    },
+    {
+      "plaintext": "9C08",
+      "key": "7BF8",
+      "ciphertext": "AB9C"
+    },
+    {
+      "plaintext": "7F4D",
+      "key": "477D",
+      "ciphertext": "5828"
+    },
+    {
+      "plaintext": "D0CE",
+      "key": "172C",
+      "ciphertext": "7623"
+    },
+    {
+      "plaintext": "43FF",
+      "key": "77BB",
+      "ciphertext": "0AC5"
+    },
+    {
+      "plaintext": "577B",
+      "key": "55A5",
+      "ciphertext": "A88B"
+    },
+    {
+      "plaintext": "2498",
+      "key": "8D8B",
+      "ciphertext": "BC71"
+    },
+    {
+      "plaintext": "E023",
+      "key": "2C56",
+      "ciphertext": "2101"
+    },
+    {
+      "plaintext": "B8B2",
+      "key": "7A04",
+      "ciphertext": "2D11"
+    },
+    {
+      "plaintext": "F2CA",
+      "key": "5718",
+      "ciphertext": "A68A"
+    },
+    {
+      "plaintext": "34C1",
+      "key": "68B2",
+      "ciphertext": "26D8"
+    },
+    {
+      "plaintext": "3C13",
+      "key": "C087",
+      "ciphertext": "3508"
+    },
+    {
+      "plaintext": "A6E3",
+      "key": "AA2E",
+      "ciphertext": "3265"
+    },
+    {
+      "plaintext": "F187",
+      "key": "C275",
+      "ciphertext": "559A"
+    },
+    {
+      "plaintext": "342C",
+      "key": "6A38",
+      "ciphertext": "F3AD"
+    },
+    {
+      "plaintext": "30A4",
+      "key": "AFC0",
+      "ciphertext": "5CDD"
+    },
+    {
+      "plaintext": "D22E",
+      "key": "0ED2",
+      "ciphertext": "93A1"
+    },
+    {
+      "plaintext": "82E4",
+      "key": "7213",
+      "ciphertext": "BCAE"
+    },
+    {
+      "plaintext": "C912",
+      "key": "17F3",
+      "ciphertext": "DF4F"
+    },
+    {
+      "plaintext": "469E",
+      "key": "CCB5",
+      "ciphertext": "1D5F"
+    },
+    {
+      "plaintext": "D86C",
+      "key": "105B",
+      "ciphertext": "DE18"
+    },
+    {
+      "plaintext": "AF14",
+      "key": "252E",
+      "ciphertext": "9996"
+    },
+    {
+      "plaintext": "170B",
+      "key": "499B",
+      "ciphertext": "96DB"
+    },
+    {
+      "plaintext": "994D",
+      "key": "1E15",
+      "ciphertext": "D722"
+    },
+    {
+      "plaintext": "465F",
+      "key": "BD4F",
+      "ciphertext": "4E6E"
+    },
+    {
+      "plaintext": "9080",
+      "key": "1AFE",
+      "ciphertext": "C2BE"
+    },
+    {
+      "plaintext": "3B42",
+      "key": "60C2",
+      "ciphertext": "D2A0"
+    },
+    {
+      "plaintext": "0114",
+      "key": "39FF",
+      "ciphertext": "8AD1"
+    },
+    {
+      "plaintext": "48F4",
+      "key": "7219",
+      "ciphertext": "A2EF"
+    },
+    {
+      "plaintext": "EB82",
+      "key": "39EC",
+      "ciphertext": "DCA3"
+    },
+    {
+      "plaintext": "0033",
+      "key": "2A74",
+      "ciphertext": "7690"
+    },
+    {
+      "plaintext": "B0D0",
+      "key": "137D",
+      "ciphertext": "7672"
+    },
+    {
+      "plaintext": "C6BD",
+      "key": "E4B3",
+      "ciphertext": "C313"
+    },
+    {
+      "plaintext": "04C7",
+      "key": "CBF0",
+      "ciphertext": "A286"
+    },
+    {
+      "plaintext": "4B12",
+      "key": "6599",
+      "ciphertext": "0658"
+    },
+    {
+      "plaintext": "23D6",
+      "key": "3580",
+      "ciphertext": "34E6"
+    },
+    {
+      "plaintext": "25E2",
+      "key": "6A95",
+      "ciphertext": "3E81"
+    },
+    {
+      "plaintext": "2B56",
+      "key": "8D85",
+      "ciphertext": "EA0E"
+    },
+    {
+      "plaintext": "DE80",
+      "key": "FD8F",
+      "ciphertext": "F353"
+    },
+    {
+      "plaintext": "290C",
+      "key": "03D1",
+      "ciphertext": "0D5B"
+    },
+    {
+      "plaintext": "F3AF",
+      "key": "5212",
+      "ciphertext": "927C"
+    },
+    {
+      "plaintext": "33B1",
+      "key": "4BD4",
+      "ciphertext": "FDD3"
+    },
+    {
+      "plaintext": "E621",
+      "key": "B4EC",
+      "ciphertext": "293C"
+    },
+    {
+      "plaintext": "40DD",
+      "key": "4D63",
+      "ciphertext": "9CA1"
+    },
+    {
+      "plaintext": "F106",
+      "key": "F73A",
+      "ciphertext": "FCAD"
+    },
+    {
+      "plaintext": "2EA3",
+      "key": "5A35",
+      "ciphertext": "521D"
+    },
+    {
+      "plaintext": "285D",
+      "key": "4249",
+      "ciphertext": "0E04"
+    },
+    {
+      "plaintext": "602C",
+      "key": "42E0",
+      "ciphertext": "8414"
+    },
+    {
+      "plaintext": "3A8A",
+      "key": "DE39",
+      "ciphertext": "2641"
+    },
+    {
+      "plaintext": "E054",
+      "key": "3C75",
+      "ciphertext": "0822"
+    },
+    {
+      "plaintext": "D751",
+      "key": "7728",
+      "ciphertext": "FDCC"
+    },
+    {
+      "plaintext": "9BAA",
+      "key": "3B06",
+      "ciphertext": "57A2"
+    },
+    {
+      "plaintext": "99D3",
+      "key": "8DAD",
+      "ciphertext": "F094"
+    },
+    {
+      "plaintext": "79D6",
+      "key": "BA77",
+      "ciphertext": "101C"
+    },
+    {
+      "plaintext": "B357",
+      "key": "FDA1",
+      "ciphertext": "A30E"
+    },
+    {
+      "plaintext": "02AB",
+      "key": "2C46",
+      "ciphertext": "5DBA"
+    },
+    {
+      "plaintext": "B277",
+      "key": "8086",
+      "ciphertext": "BE09"
+    },
+    {
+      "plaintext": "DE9E",
+      "key": "C776",
+      "ciphertext": "9650"
+    },
+    {
+      "plaintext": "C9B5",
+      "key": "53DB",
+      "ciphertext": "4F50"
+    },
+    {
+      "plaintext": "A4B2",
+      "key": "056F",
+      "ciphertext": "CC26"
+    },
+    {
+      "plaintext": "73EB",
+      "key": "C077",
+      "ciphertext": "D91E"
+    },
+    {
+      "plaintext": "0ED4",
+      "key": "D814",
+      "ciphertext": "0FF0"
+    },
+    {
+      "plaintext": "680C",
+      "key": "FD46",
+      "ciphertext": "AB53"
+    },
+    {
+      "plaintext": "A99D",
+      "key": "BC6E",
+      "ciphertext": "5972"
+    },
+    {
+      "plaintext": "0836",
+      "key": "DBA6",
+      "ciphertext": "4104"
+    },
+    {
+      "plaintext": "B77F",
+      "key": "EDBF",
+      "ciphertext": "C344"
+    },
+    {
+      "plaintext": "F1A5",
+      "key": "4C3C",
+      "ciphertext": "32F5"
+    },
+    {
+      "plaintext": "B210",
+      "key": "D437",
+      "ciphertext": "2B10"
+    },
+    {
+      "plaintext": "D8AA",
+      "key": "E61E",
+      "ciphertext": "D349"
+    },
+    {
+      "plaintext": "CF17",
+      "key": "B3BD",
+      "ciphertext": "6CD0"
+    },
+    {
+      "plaintext": "4C17",
+      "key": "0BB9",
+      "ciphertext": "2145"
+    },
+    {
+      "plaintext": "59C5",
+      "key": "CC07",
+      "ciphertext": "69B6"
+    },
+    {
+      "plaintext": "DD2D",
+      "key": "1493",
+      "ciphertext": "562C"
+    },
+    {
+      "plaintext": "0838",
+      "key": "5D6B",
+      "ciphertext": "304D"
+    },
+    {
+      "plaintext": "925C",
+      "key": "3525",
+      "ciphertext": "3F1D"
+    },
+    {
+      "plaintext": "1C97",
+      "key": "40EE",
+      "ciphertext": "4172"
+    },
+    {
+      "plaintext": "65CC",
+      "key": "0747",
+      "ciphertext": "24D2"
+    },
+    {
+      "plaintext": "A479",
+      "key": "9CDF",
+      "ciphertext": "8295"
+    },
+    {
+      "plaintext": "CE55",
+      "key": "AD5C",
+      "ciphertext": "BD99"
+    },
+    {
+      "plaintext": "79A9",
+      "key": "4151",
+      "ciphertext": "9863"
+    },
+    {
+      "plaintext": "B06C",
+      "key": "EFF0",
+      "ciphertext": "9440"
+    },
+    {
+      "plaintext": "C59E",
+      "key": "4A40",
+      "ciphertext": "3DBF"
+    },
+    {
+      "plaintext": "B435",
+      "key": "5558",
+      "ciphertext": "64BC"
+    },
+    {
+      "plaintext": "9A4F",
+      "key": "E18E",
+      "ciphertext": "F4D7"
+    },
+    {
+      "plaintext": "9DBB",
+      "key": "8F04",
+      "ciphertext": "C500"
+    },
+    {
+      "plaintext": "2D04",
+      "key": "8ADF",
+      "ciphertext": "4F6A"
+    },
+    {
+      "plaintext": "D5B9",
+      "key": "1C21",
+      "ciphertext": "BF57"
+    },
+    {
+      "plaintext": "6CFD",
+      "key": "AAB1",
+      "ciphertext": "4366"
+    },
+    {
+      "plaintext": "E96E",
+      "key": "89FD",
+      "ciphertext": "A032"
+    },
+    {
+      "plaintext": "5977",
+      "key": "6039",
+      "ciphertext": "A8A1"
+    },
+    {
+      "plaintext": "19BF",
+      "key": "B39C",
+      "ciphertext": "3284"
+    },
+    {
+      "plaintext": "6A4F",
+      "key": "1C32",
+      "ciphertext": "2EA4"
+    },
+    {
+      "plaintext": "4A1F",
+      "key": "D079",
+      "ciphertext": "3CE1"
+    },
+    {
+      "plaintext": "C4F4",
+      "key": "5700",
+      "ciphertext": "D3EE"
+    },
+    {
+      "plaintext": "3488",
+      "key": "63A2",
+      "ciphertext": "2C68"
+    },
+    {
+      "plaintext": "FFD4",
+      "key": "E2D3",
+      "ciphertext": "6E4A"
+    },
+    {
+      "plaintext": "F7E4",
+      "key": "960E",
+      "ciphertext": "1CD3"
+    },
+    {
+      "plaintext": "E659",
+      "key": "CD55",
+      "ciphertext": "4353"
+    },
+    {
+      "plaintext": "933D",
+      "key": "9EBB",
+      "ciphertext": "74AC"
+    },
+    {
+      "plaintext": "DB11",
+      "key": "5409",
+      "ciphertext": "B337"
+    },
+    {
+      "plaintext": "A2FD",
+      "key": "CE87",
+      "ciphertext": "77EA"
+    },
+    {
+      "plaintext": "A117",
+      "key": "E720",
+      "ciphertext": "346C"
+    },
+    {
+      "plaintext": "C0E0",
+      "key": "65ED",
+      "ciphertext": "883F"
+    },
+    {
+      "plaintext": "554F",
+      "key": "63A9",
+      "ciphertext": "B8E5"
+    },
+    {
+      "plaintext": "CADC",
+      "key": "E05D",
+      "ciphertext": "3A90"
+    },
+    {
+      "plaintext": "F5DE",
+      "key": "37E0",
+      "ciphertext": "2296"
+    },
+    {
+      "plaintext": "7F70",
+      "key": "6CCA",
+      "ciphertext": "D4CB"
+    },
+    {
+      "plaintext": "E46D",
+      "key": "A720",
+      "ciphertext": "5A08"
+    },
+    {
+      "plaintext": "0568",
+      "key": "B0A8",
+      "ciphertext": "DBAE"
+    },
+    {
+      "plaintext": "B056",
+      "key": "7BEB",
+      "ciphertext": "6746"
+    },
+    {
+      "plaintext": "B1C7",
+      "key": "4CA4",
+      "ciphertext": "8601"
+    },
+    {
+      "plaintext": "E12C",
+      "key": "486F",
+      "ciphertext": "B242"
+    },
+    {
+      "plaintext": "BCEA",
+      "key": "7D85",
+      "ciphertext": "CFAF"
+    },
+    {
+      "plaintext": "8126",
+      "key": "B7EC",
+      "ciphertext": "CE32"
+    },
+    {
+      "plaintext": "0141",
+      "key": "FD79",
+      "ciphertext": "07C7"
+    },
+    {
+      "plaintext": "1662",
+      "key": "4AD5",
+      "ciphertext": "992D"
+    },
+    {
+      "plaintext": "1E33",
+      "key": "33D9",
+      "ciphertext": "CBBF"
+    },
+    {
+      "plaintext": "FA33",
+      "key": "B22D",
+      "ciphertext": "D692"
+    },
+    {
+      "plaintext": "12FD",
+      "key": "0B34",
+      "ciphertext": "9378"
+    },
+    {
+      "plaintext": "59D2",
+      "key": "3458",
+      "ciphertext": "1535"
+    },
+    {
+      "plaintext": "BE49",
+      "key": "46EC",
+      "ciphertext": "9DD6"
+    },
+    {
+      "plaintext": "DE14",
+      "key": "9409",
+      "ciphertext": "63B8"
+    },
+    {
+      "plaintext": "8AC9",
+      "key": "8DBE",
+      "ciphertext": "1991"
+    },
+    {
+      "plaintext": "5EE3",
+      "key": "6351",
+      "ciphertext": "519C"
+    },
+    {
+      "plaintext": "8400",
+      "key": "5EFB",
+      "ciphertext": "B3EA"
+    },
+    {
+      "plaintext": "A974",
+      "key": "1D95",
+      "ciphertext": "D4D4"
+    },
+    {
+      "plaintext": "8B8F",
+      "key": "553E",
+      "ciphertext": "F1AF"
+    },
+    {
+      "plaintext": "613D",
+      "key": "C64E",
+      "ciphertext": "D980"
+    },
+    {
+      "plaintext": "64E1",
+      "key": "EED1",
+      "ciphertext": "D47C"
+    },
+    {
+      "plaintext": "E552",
+      "key": "2D8C",
+      "ciphertext": "B8D7"
+    },
+    {
+      "plaintext": "65B7",
+      "key": "01B0",
+      "ciphertext": "7C84"
+    },
+    {
+      "plaintext": "3A34",
+      "key": "5D76",
+      "ciphertext": "22D1"
+    },
+    {
+      "plaintext": "987E",
+      "key": "914A",
+      "ciphertext": "8270"
+    },
+    {
+      "plaintext": "5A69",
+      "key": "B9AB",
+      "ciphertext": "D5FB"
+    },
+    {
+      "plaintext": "7AA4",
+      "key": "34AD",
+      "ciphertext": "DECF"
+    },
+    {
+      "plaintext": "7F2A",
+      "key": "BE5F",
+      "ciphertext": "20A8"
+    },
+    {
+      "plaintext": "C2EB",
+      "key": "B05A",
+      "ciphertext": "2768"
+    },
+    {
+      "plaintext": "FA80",
+      "key": "0919",
+      "ciphertext": "5B43"
+    },
+    {
+      "plaintext": "9249",
+      "key": "20BC",
+      "ciphertext": "6D2D"
+    },
+    {
+      "plaintext": "60F8",
+      "key": "0C81",
+      "ciphertext": "0E53"
+    },
+    {
+      "plaintext": "2C9F",
+      "key": "C1A3",
+      "ciphertext": "788F"
+    },
+    {
+      "plaintext": "97D2",
+      "key": "44C1",
+      "ciphertext": "51D3"
+    },
+    {
+      "plaintext": "F10E",
+      "key": "0B4D",
+      "ciphertext": "5C3D"
+    },
+    {
+      "plaintext": "1F6A",
+      "key": "D20D",
+      "ciphertext": "974D"
+    },
+    {
+      "plaintext": "91C6",
+      "key": "4998",
+      "ciphertext": "C431"
+    },
+    {
+      "plaintext": "3C47",
+      "key": "0D12",
+      "ciphertext": "C153"
+    },
+    {
+      "plaintext": "2C70",
+      "key": "7BF4",
+      "ciphertext": "DA6B"
+    },
+    {
+      "plaintext": "514B",
+      "key": "E638",
+      "ciphertext": "0353"
+    },
+    {
+      "plaintext": "3B72",
+      "key": "4857",
+      "ciphertext": "365C"
+    },
+    {
+      "plaintext": "AF11",
+      "key": "6BFA",
+      "ciphertext": "A23E"
+    },
+    {
+      "plaintext": "F8A5",
+      "key": "A6FD",
+      "ciphertext": "BF3D"
+    },
+    {
+      "plaintext": "4659",
+      "key": "485E",
+      "ciphertext": "B1B9"
+    },
+    {
+      "plaintext": "E4B2",
+      "key": "E975",
+      "ciphertext": "4F2F"
+    },
+    {
+      "plaintext": "D427",
+      "key": "849C",
+      "ciphertext": "B079"
+    },
+    {
+      "plaintext": "D620",
+      "key": "D838",
+      "ciphertext": "7FD4"
+    },
+    {
+      "plaintext": "0E97",
+      "key": "4C73",
+      "ciphertext": "720B"
+    },
+    {
+      "plaintext": "383A",
+      "key": "BB2C",
+      "ciphertext": "5E48"
+    },
+    {
+      "plaintext": "A251",
+      "key": "13E3",
+      "ciphertext": "156F"
+    },
+    {
+      "plaintext": "FEF5",
+      "key": "6EB4",
+      "ciphertext": "8FF6"
+    },
+    {
+      "plaintext": "D9C6",
+      "key": "1C01",
+      "ciphertext": "B2FE"
+    },
+    {
+      "plaintext": "400C",
+      "key": "E390",
+      "ciphertext": "8316"
+    },
+    {
+      "plaintext": "161F",
+      "key": "35A2",
+      "ciphertext": "FF60"
+    },
+    {
+      "plaintext": "83D7",
+      "key": "C179",
+      "ciphertext": "15DD"
+    },
+    {
+      "plaintext": "2CF0",
+      "key": "2DD9",
+      "ciphertext": "9B23"
+    },
+    {
+      "plaintext": "ED2F",
+      "key": "4C2F",
+      "ciphertext": "838A"
+    },
+    {
+      "plaintext": "EFF3",
+      "key": "9C8D",
+      "ciphertext": "2C82"
+    },
+    {
+      "plaintext": "31E1",
+      "key": "9A34",
+      "ciphertext": "85FA"
+    },
+    {
+      "plaintext": "A2E6",
+      "key": "BD36",
+      "ciphertext": "F0BC"
+    },
+    {
+      "plaintext": "1645",
+      "key": "CD1A",
+      "ciphertext": "D5F0"
+    },
+    {
+      "plaintext": "1F1B",
+      "key": "FB70",
+      "ciphertext": "CD2F"
+    },
+    {
+      "plaintext": "3643",
+      "key": "DFBF",
+      "ciphertext": "C1BF"
+    },
+    {
+      "plaintext": "5E3E",
+      "key": "D37F",
+      "ciphertext": "6F7C"
+    },
+    {
+      "plaintext": "2992",
+      "key": "288C",
+      "ciphertext": "7038"
+    },
+    {
+      "plaintext": "AC5F",
+      "key": "83B1",
+      "ciphertext": "60B2"
+    },
+    {
+      "plaintext": "C6A4",
+      "key": "31D9",
+      "ciphertext": "9FEB"
+    },
+    {
+      "plaintext": "9FAF",
+      "key": "CBCF",
+      "ciphertext": "FB18"
+    },
+    {
+      "plaintext": "69D3",
+      "key": "2AFD",
+      "ciphertext": "7F65"
+    },
+    {
+      "plaintext": "6161",
+      "key": "1C2B",
+      "ciphertext": "0A99"
+    },
+    {
+      "plaintext": "CB2B",
+      "key": "E30E",
+      "ciphertext": "248D"
+    },
+    {
+      "plaintext": "E3CA",
+      "key": "2D17",
+      "ciphertext": "CAF2"
+    },
+    {
+      "plaintext": "D10F",
+      "key": "EB9A",
+      "ciphertext": "CDF7"
+    },
+    {
+      "plaintext": "8FEE",
+      "key": "348E",
+      "ciphertext": "AC17"
+    },
+    {
+      "plaintext": "52B1",
+      "key": "551F",
+      "ciphertext": "6110"
+    },
+    {
+      "plaintext": "C7D0",
+      "key": "B090",
+      "ciphertext": "D127"
+    },
+    {
+      "plaintext": "3441",
+      "key": "8067",
+      "ciphertext": "8F40"
+    },
+    {
+      "plaintext": "1195",
+      "key": "7E6B",
+      "ciphertext": "F71C"
+    },
+    {
+      "plaintext": "5B28",
+      "key": "AF7B",
+      "ciphertext": "A48C"
+    },
+    {
+      "plaintext": "CDC4",
+      "key": "B16E",
+      "ciphertext": "8A71"
+    },
+    {
+      "plaintext": "5342",
+      "key": "935B",
+      "ciphertext": "BC0F"
+    },
+    {
+      "plaintext": "6996",
+      "key": "6603",
+      "ciphertext": "C59E"
+    },
+    {
+      "plaintext": "AF01",
+      "key": "3676",
+      "ciphertext": "9774"
+    },
+    {
+      "plaintext": "F189",
+      "key": "FD51",
+      "ciphertext": "A86F"
+    },
+    {
+      "plaintext": "E836",
+      "key": "79D5",
+      "ciphertext": "FB33"
+    },
+    {
+      "plaintext": "F949",
+      "key": "1883",
+      "ciphertext": "1246"
+    },
+    {
+      "plaintext": "3158",
+      "key": "A1D6",
+      "ciphertext": "F975"
+    },
+    {
+      "plaintext": "BA80",
+      "key": "A83E",
+      "ciphertext": "9F56"
+    },
+    {
+      "plaintext": "E565",
+      "key": "6247",
+      "ciphertext": "53BF"
+    },
+    {
+      "plaintext": "91DC",
+      "key": "5E5C",
+      "ciphertext": "E53A"
+    },
+    {
+      "plaintext": "0092",
+      "key": "B555",
+      "ciphertext": "D05E"
+    },
+    {
+      "plaintext": "6888",
+      "key": "EFB1",
+      "ciphertext": "3472"
+    },
+    {
+      "plaintext": "91FA",
+      "key": "DA27",
+      "ciphertext": "F8DA"
+    },
+    {
+      "plaintext": "3C92",
+      "key": "244F",
+      "ciphertext": "B530"
+    },
+    {
+      "plaintext": "EA0F",
+      "key": "3BB1",
+      "ciphertext": "817C"
+    },
+    {
+      "plaintext": "1E0D",
+      "key": "46F3",
+      "ciphertext": "94B5"
+    },
+    {
+      "plaintext": "F116",
+      "key": "F771",
+      "ciphertext": "51FD"
+    },
+    {
+      "plaintext": "6FFD",
+      "key": "4589",
+      "ciphertext": "C508"
+    },
+    {
+      "plaintext": "733B",
+      "key": "0582",
+      "ciphertext": "228A"
+    },
+    {
+      "plaintext": "18D6",
+      "key": "6184",
+      "ciphertext": "D5A7"
+    },
+    {
+      "plaintext": "C038",
+      "key": "182A",
+      "ciphertext": "EFA8"
+    },
+    {
+      "plaintext": "DFA4",
+      "key": "E5B5",
+      "ciphertext": "835F"
+    },
+    {
+      "plaintext": "3C2D",
+      "key": "796F",
+      "ciphertext": "71F0"
+    },
+    {
+      "plaintext": "0AFC",
+      "key": "5B76",
+      "ciphertext": "D17C"
+    },
+    {
+      "plaintext": "AB67",
+      "key": "9A85",
+      "ciphertext": "074F"
+    },
+    {
+      "plaintext": "9080",
+      "key": "5C5E",
+      "ciphertext": "F21E"
+    },
+    {
+      "plaintext": "CCF6",
+      "key": "5AD1",
+      "ciphertext": "729E"
+    },
+    {
+      "plaintext": "7DA4",
+      "key": "3F6D",
+      "ciphertext": "FD1B"
+    },
+    {
+      "plaintext": "7233",
+      "key": "ED36",
+      "ciphertext": "29AF"
+    },
+    {
+      "plaintext": "59B1",
+      "key": "6AF3",
+      "ciphertext": "00DD"
+    },
+    {
+      "plaintext": "2413",
+      "key": "11E7",
+      "ciphertext": "51BF"
+    },
+    {
+      "plaintext": "3ED5",
+      "key": "BDD0",
+      "ciphertext": "4687"
+    },
+    {
+      "plaintext": "776C",
+      "key": "03F7",
+      "ciphertext": "8634"
+    },
+    {
+      "plaintext": "909B",
+      "key": "47F8",
+      "ciphertext": "02A1"
+    },
+    {
+      "plaintext": "A205",
+      "key": "7933",
+      "ciphertext": "F1D3"
+    },
+    {
+      "plaintext": "FA88",
+      "key": "4DFE",
+      "ciphertext": "5EED"
+    },
+    {
+      "plaintext": "1E81",
+      "key": "0FFC",
+      "ciphertext": "4EFE"
+    },
+    {
+      "plaintext": "24CF",
+      "key": "AFCF",
+      "ciphertext": "EFF9"
+    },
+    {
+      "plaintext": "D1F4",
+      "key": "0DCB",
+      "ciphertext": "88DD"
+    },
+    {
+      "plaintext": "21CC",
+      "key": "E2FA",
+      "ciphertext": "E8DE"
+    },
+    {
+      "plaintext": "E04B",
+      "key": "DCFB",
+      "ciphertext": "B02F"
+    },
+    {
+      "plaintext": "5EB6",
+      "key": "46BC",
+      "ciphertext": "C887"
+    },
+    {
+      "plaintext": "A598",
+      "key": "25DF",
+      "ciphertext": "FE47"
+    },
+    {
+      "plaintext": "0AEA",
+      "key": "5074",
+      "ciphertext": "121E"
+    },
+    {
+      "plaintext": "D2E0",
+      "key": "260E",
+      "ciphertext": "1F48"
+    },
+    {
+      "plaintext": "5EA9",
+      "key": "BC6F",
+      "ciphertext": "A3F4"
+    },
+    {
+      "plaintext": "33DD",
+      "key": "75B7",
+      "ciphertext": "85B6"
+    },
+    {
+      "plaintext": "6BD3",
+      "key": "85CD",
+      "ciphertext": "6550"
+    },
+    {
+      "plaintext": "68AC",
+      "key": "0E33",
+      "ciphertext": "5457"
+    },
+    {
+      "plaintext": "07D3",
+      "key": "CD89",
+      "ciphertext": "FC69"
+    },
+    {
+      "plaintext": "B68E",
+      "key": "A9EB",
+      "ciphertext": "8D51"
+    },
+    {
+      "plaintext": "9163",
+      "key": "A296",
+      "ciphertext": "01DE"
+    },
+    {
+      "plaintext": "83CA",
+      "key": "9E06",
+      "ciphertext": "8512"
+    },
+    {
+      "plaintext": "BEBB",
+      "key": "AE12",
+      "ciphertext": "0C73"
+    },
+    {
+      "plaintext": "2395",
+      "key": "B6CB",
+      "ciphertext": "4B99"
+    },
+    {
+      "plaintext": "477D",
+      "key": "E1B4",
+      "ciphertext": "B804"
+    },
+    {
+      "plaintext": "D44B",
+      "key": "06A1",
+      "ciphertext": "039A"
+    },
+    {
+      "plaintext": "9FDD",
+      "key": "5354",
+      "ciphertext": "6764"
+    },
+    {
+      "plaintext": "99C6",
+      "key": "7CB1",
+      "ciphertext": "C033"
+    },
+    {
+      "plaintext": "D994",
+      "key": "A67A",
+      "ciphertext": "C778"
+    },
+    {
+      "plaintext": "B15D",
+      "key": "CE79",
+      "ciphertext": "5C39"
+    },
+    {
+      "plaintext": "6476",
+      "key": "D54F",
+      "ciphertext": "62DF"
+    },
+    {
+      "plaintext": "FA65",
+      "key": "EC0B",
+      "ciphertext": "FDF8"
+    },
+    {
+      "plaintext": "D02D",
+      "key": "0D15",
+      "ciphertext": "A919"
+    },
+    {
+      "plaintext": "CBFB",
+      "key": "35A4",
+      "ciphertext": "E906"
+    },
+    {
+      "plaintext": "2CB0",
+      "key": "F8E7",
+      "ciphertext": "B98C"
+    },
+    {
+      "plaintext": "2DD9",
+      "key": "E8AE",
+      "ciphertext": "8AB3"
+    },
+    {
+      "plaintext": "89EB",
+      "key": "2AF3",
+      "ciphertext": "DAAF"
+    },
+    {
+      "plaintext": "B581",
+      "key": "75B7",
+      "ciphertext": "48A0"
+    },
+    {
+      "plaintext": "0E49",
+      "key": "01CF",
+      "ciphertext": "F951"
+    },
+    {
+      "plaintext": "CA83",
+      "key": "97A6",
+      "ciphertext": "2807"
+    },
+    {
+      "plaintext": "6F97",
+      "key": "6AB9",
+      "ciphertext": "AB31"
+    },
+    {
+      "plaintext": "306C",
+      "key": "D86D",
+      "ciphertext": "3CCD"
+    },
+    {
+      "plaintext": "4548",
+      "key": "E0E9",
+      "ciphertext": "AAAA"
+    },
+    {
+      "plaintext": "5B24",
+      "key": "E98F",
+      "ciphertext": "4D74"
+    },
+    {
+      "plaintext": "C018",
+      "key": "9339",
+      "ciphertext": "0CD6"
+    },
+    {
+      "plaintext": "D1CD",
+      "key": "7D83",
+      "ciphertext": "F602"
+    },
+    {
+      "plaintext": "2BA4",
+      "key": "C927",
+      "ciphertext": "29F8"
+    },
+    {
+      "plaintext": "86C5",
+      "key": "7220",
+      "ciphertext": "2975"
+    },
+    {
+      "plaintext": "834A",
+      "key": "96D7",
+      "ciphertext": "E2E4"
+    },
+    {
+      "plaintext": "73EA",
+      "key": "BDAA",
+      "ciphertext": "BD2C"
+    },
+    {
+      "plaintext": "63FD",
+      "key": "203D",
+      "ciphertext": "C8C3"
+    },
+    {
+      "plaintext": "5AC8",
+      "key": "FF19",
+      "ciphertext": "4973"
+    },
+    {
+      "plaintext": "9C3E",
+      "key": "AF34",
+      "ciphertext": "8AE7"
+    },
+    {
+      "plaintext": "2491",
+      "key": "73C4",
+      "ciphertext": "70AB"
+    },
+    {
+      "plaintext": "CEC3",
+      "key": "1A1F",
+      "ciphertext": "8DFF"
+    },
+    {
+      "plaintext": "0EDD",
+      "key": "688B",
+      "ciphertext": "4D03"
+    },
+    {
+      "plaintext": "C4C8",
+      "key": "D60A",
+      "ciphertext": "0E73"
+    },
+    {
+      "plaintext": "DE1F",
+      "key": "099B",
+      "ciphertext": "CE82"
+    },
+    {
+      "plaintext": "CA37",
+      "key": "BDCB",
+      "ciphertext": "A437"
+    },
+    {
+      "plaintext": "5C8D",
+      "key": "4AC5",
+      "ciphertext": "F24A"
+    },
+    {
+      "plaintext": "03A6",
+      "key": "C593",
+      "ciphertext": "4740"
+    },
+    {
+      "plaintext": "258D",
+      "key": "61D1",
+      "ciphertext": "CF4E"
+    },
+    {
+      "plaintext": "4C55",
+      "key": "550B",
+      "ciphertext": "373D"
+    },
+    {
+      "plaintext": "A387",
+      "key": "3287",
+      "ciphertext": "9DCE"
+    },
+    {
+      "plaintext": "532C",
+      "key": "FD7A",
+      "ciphertext": "A38A"
+    },
+    {
+      "plaintext": "DE4C",
+      "key": "0939",
+      "ciphertext": "3204"
+    },
+    {
+      "plaintext": "747B",
+      "key": "BDB4",
+      "ciphertext": "31C9"
+    },
+    {
+      "plaintext": "CCF0",
+      "key": "A804",
+      "ciphertext": "5303"
+    },
+    {
+      "plaintext": "B469",
+      "key": "7E26",
+      "ciphertext": "3EDF"
+    },
+    {
+      "plaintext": "337C",
+      "key": "E98F",
+      "ciphertext": "AADF"
+    },
+    {
+      "plaintext": "074E",
+      "key": "D874",
+      "ciphertext": "175A"
+    },
+    {
+      "plaintext": "E62A",
+      "key": "C2C0",
+      "ciphertext": "4A7D"
+    },
+    {
+      "plaintext": "2348",
+      "key": "4165",
+      "ciphertext": "4CE2"
+    },
+    {
+      "plaintext": "D438",
+      "key": "DB9E",
+      "ciphertext": "DB3E"
+    },
+    {
+      "plaintext": "ADFA",
+      "key": "B566",
+      "ciphertext": "B2B2"
+    },
+    {
+      "plaintext": "09A5",
+      "key": "4754",
+      "ciphertext": "F1C2"
+    },
+    {
+      "plaintext": "795A",
+      "key": "9355",
+      "ciphertext": "F2F8"
+    },
+    {
+      "plaintext": "1FBC",
+      "key": "6C84",
+      "ciphertext": "1E44"
+    },
+    {
+      "plaintext": "570D",
+      "key": "E806",
+      "ciphertext": "C406"
+    },
+    {
+      "plaintext": "D40F",
+      "key": "4ECD",
+      "ciphertext": "9D2B"
+    },
+    {
+      "plaintext": "1EC6",
+      "key": "41E4",
+      "ciphertext": "D2DA"
+    },
+    {
+      "plaintext": "CB41",
+      "key": "C667",
+      "ciphertext": "F9EF"
+    },
+    {
+      "plaintext": "94A7",
+      "key": "E372",
+      "ciphertext": "C938"
+    },
+    {
+      "plaintext": "10EA",
+      "key": "BC9F",
+      "ciphertext": "A006"
+    },
+    {
+      "plaintext": "A1A7",
+      "key": "308A",
+      "ciphertext": "9578"
+    },
+    {
+      "plaintext": "6F6C",
+      "key": "01F5",
+      "ciphertext": "3397"
+    },
+    {
+      "plaintext": "FAED",
+      "key": "3668",
+      "ciphertext": "79BB"
+    },
+    {
+      "plaintext": "259C",
+      "key": "E13B",
+      "ciphertext": "DE13"
+    },
+    {
+      "plaintext": "6F89",
+      "key": "C62F",
+      "ciphertext": "AC86"
+    },
+    {
+      "plaintext": "F728",
+      "key": "1967",
+      "ciphertext": "B720"
+    },
+    {
+      "plaintext": "CF4E",
+      "key": "9494",
+      "ciphertext": "BB5F"
+    },
+    {
+      "plaintext": "9E95",
+      "key": "8123",
+      "ciphertext": "C268"
+    },
+    {
+      "plaintext": "0D0C",
+      "key": "8C6F",
+      "ciphertext": "4266"
+    },
+    {
+      "plaintext": "1564",
+      "key": "6F63",
+      "ciphertext": "E489"
+    },
+    {
+      "plaintext": "A535",
+      "key": "74F0",
+      "ciphertext": "2BF5"
+    },
+    {
+      "plaintext": "C1FE",
+      "key": "F9D6",
+      "ciphertext": "FF1F"
+    },
+    {
+      "plaintext": "ACA1",
+      "key": "2317",
+      "ciphertext": "2B15"
+    },
+    {
+      "plaintext": "A8F8",
+      "key": "C69A",
+      "ciphertext": "2F92"
+    },
+    {
+      "plaintext": "995F",
+      "key": "112C",
+      "ciphertext": "166A"
+    },
+    {
+      "plaintext": "506E",
+      "key": "AD1E",
+      "ciphertext": "DAA5"
+    },
+    {
+      "plaintext": "2301",
+      "key": "AA35",
+      "ciphertext": "0469"
+    },
+    {
+      "plaintext": "31A5",
+      "key": "3957",
+      "ciphertext": "834D"
+    },
+    {
+      "plaintext": "1D00",
+      "key": "782F",
+      "ciphertext": "2824"
+    },
+    {
+      "plaintext": "8B09",
+      "key": "9AF9",
+      "ciphertext": "C670"
+    },
+    {
+      "plaintext": "DC91",
+      "key": "5C29",
+      "ciphertext": "18A4"
+    },
+    {
+      "plaintext": "0842",
+      "key": "8C56",
+      "ciphertext": "F23B"
+    },
+    {
+      "plaintext": "AFBD",
+      "key": "C241",
+      "ciphertext": "257D"
+    },
+    {
+      "plaintext": "B482",
+      "key": "C241",
+      "ciphertext": "B977"
+    },
+    {
+      "plaintext": "0876",
+      "key": "A100",
+      "ciphertext": "05DA"
+    },
+    {
+      "plaintext": "C7C2",
+      "key": "EFFA",
+      "ciphertext": "A541"
+    },
+    {
+      "plaintext": "BB10",
+      "key": "B2BA",
+      "ciphertext": "3527"
+    },
+    {
+      "plaintext": "F487",
+      "key": "E140",
+      "ciphertext": "C903"
+    },
+    {
+      "plaintext": "95CB",
+      "key": "BF95",
+      "ciphertext": "32CA"
+    },
+    {
+      "plaintext": "3CC0",
+      "key": "94E2",
+      "ciphertext": "BE27"
+    },
+    {
+      "plaintext": "323A",
+      "key": "B557",
+      "ciphertext": "0618"
+    },
+    {
+      "plaintext": "DFDC",
+      "key": "3497",
+      "ciphertext": "786E"
+    },
+    {
+      "plaintext": "8221",
+      "key": "DF79",
+      "ciphertext": "1136"
+    },
+    {
+      "plaintext": "E94E",
+      "key": "C486",
+      "ciphertext": "C87B"
+    },
+    {
+      "plaintext": "3098",
+      "key": "FA5B",
+      "ciphertext": "4E1E"
+    },
+    {
+      "plaintext": "B529",
+      "key": "41D5",
+      "ciphertext": "9060"
+    },
+    {
+      "plaintext": "BE2E",
+      "key": "3D9C",
+      "ciphertext": "8D4C"
+    },
+    {
+      "plaintext": "5432",
+      "key": "B9A2",
+      "ciphertext": "4C6B"
+    },
+    {
+      "plaintext": "A532",
+      "key": "C205",
+      "ciphertext": "9EE2"
+    },
+    {
+      "plaintext": "A594",
+      "key": "47C8",
+      "ciphertext": "BD6F"
+    },
+    {
+      "plaintext": "E3CB",
+      "key": "AD45",
+      "ciphertext": "410F"
+    },
+    {
+      "plaintext": "F79E",
+      "key": "C99E",
+      "ciphertext": "3712"
+    },
+    {
+      "plaintext": "92AF",
+      "key": "B89D",
+      "ciphertext": "998F"
+    },
+    {
+      "plaintext": "7D0E",
+      "key": "16C0",
+      "ciphertext": "7A37"
+    },
+    {
+      "plaintext": "F98E",
+      "key": "EA0E",
+      "ciphertext": "3FCE"
+    },
+    {
+      "plaintext": "17E4",
+      "key": "AB91",
+      "ciphertext": "75BB"
+    },
+    {
+      "plaintext": "DC31",
+      "key": "90C3",
+      "ciphertext": "C85E"
+    },
+    {
+      "plaintext": "5D5D",
+      "key": "09FA",
+      "ciphertext": "9998"
+    },
+    {
+      "plaintext": "7F87",
+      "key": "DB4E",
+      "ciphertext": "50AC"
+    },
+    {
+      "plaintext": "B24C",
+      "key": "621B",
+      "ciphertext": "D3B8"
+    },
+    {
+      "plaintext": "5FD6",
+      "key": "DF8C",
+      "ciphertext": "CB02"
+    },
+    {
+      "plaintext": "897D",
+      "key": "BCAD",
+      "ciphertext": "773F"
+    },
+    {
+      "plaintext": "286F",
+      "key": "0E3B",
+      "ciphertext": "E985"
+    },
+    {
+      "plaintext": "2A66",
+      "key": "65A2",
+      "ciphertext": "4B2F"
+    },
+    {
+      "plaintext": "D225",
+      "key": "1F59",
+      "ciphertext": "7EB3"
+    },
+    {
+      "plaintext": "763B",
+      "key": "D6E9",
+      "ciphertext": "F650"
+    },
+    {
+      "plaintext": "FD57",
+      "key": "4FFD",
+      "ciphertext": "416E"
+    },
+    {
+      "plaintext": "5647",
+      "key": "59E1",
+      "ciphertext": "7AE8"
+    },
+    {
+      "plaintext": "1506",
+      "key": "DC53",
+      "ciphertext": "A832"
+    },
+    {
+      "plaintext": "4385",
+      "key": "C9CD",
+      "ciphertext": "AFA3"
+    },
+    {
+      "plaintext": "EAA9",
+      "key": "3381",
+      "ciphertext": "167B"
+    },
+    {
+      "plaintext": "1528",
+      "key": "A7A9",
+      "ciphertext": "50CE"
+    },
+    {
+      "plaintext": "5AA4",
+      "key": "ECA8",
+      "ciphertext": "6354"
+    },
+    {
+      "plaintext": "C419",
+      "key": "D170",
+      "ciphertext": "BCC2"
+    },
+    {
+      "plaintext": "944C",
+      "key": "F0F1",
+      "ciphertext": "0EBA"
+    },
+    {
+      "plaintext": "3D0E",
+      "key": "E5D1",
+      "ciphertext": "A8E2"
+    },
+    {
+      "plaintext": "296A",
+      "key": "EFFF",
+      "ciphertext": "529C"
+    },
+    {
+      "plaintext": "C639",
+      "key": "8452",
+      "ciphertext": "F110"
+    },
+    {
+      "plaintext": "1171",
+      "key": "F9BC",
+      "ciphertext": "225B"
+    },
+    {
+      "plaintext": "15F3",
+      "key": "81C1",
+      "ciphertext": "D890"
+    },
+    {
+      "plaintext": "8C2E",
+      "key": "C563",
+      "ciphertext": "416B"
+    },
+    {
+      "plaintext": "93E0",
+      "key": "420C",
+      "ciphertext": "52A5"
+    },
+    {
+      "plaintext": "24B5",
+      "key": "6971",
+      "ciphertext": "FA66"
+    },
+    {
+      "plaintext": "AD08",
+      "key": "7DC6",
+      "ciphertext": "81BE"
+    },
+    {
+      "plaintext": "0BB7",
+      "key": "8166",
+      "ciphertext": "2CB1"
+    },
+    {
+      "plaintext": "F070",
+      "key": "4E5E",
+      "ciphertext": "6E3A"
+    },
+    {
+      "plaintext": "72E9",
+      "key": "9494",
+      "ciphertext": "A981"
+    },
+    {
+      "plaintext": "F74D",
+      "key": "99FD",
+      "ciphertext": "6E70"
+    },
+    {
+      "plaintext": "EF37",
+      "key": "1706",
+      "ciphertext": "5713"
+    },
+    {
+      "plaintext": "E67B",
+      "key": "933F",
+      "ciphertext": "AC94"
+    },
+    {
+      "plaintext": "5632",
+      "key": "8103",
+      "ciphertext": "3654"
+    },
+    {
+      "plaintext": "0E46",
+      "key": "7C0E",
+      "ciphertext": "F5BA"
+    },
+    {
+      "plaintext": "56E1",
+      "key": "521E",
+      "ciphertext": "AD5E"
+    },
+    {
+      "plaintext": "45D7",
+      "key": "D5AF",
+      "ciphertext": "2EEA"
+    },
+    {
+      "plaintext": "19AA",
+      "key": "8DB5",
+      "ciphertext": "DFC1"
+    },
+    {
+      "plaintext": "D410",
+      "key": "0C58",
+      "ciphertext": "F493"
+    },
+    {
+      "plaintext": "4DB2",
+      "key": "906D",
+      "ciphertext": "2245"
+    },
+    {
+      "plaintext": "A55E",
+      "key": "DD87",
+      "ciphertext": "189E"
+    },
+    {
+      "plaintext": "6434",
+      "key": "3738",
+      "ciphertext": "1D3A"
+    },
+    {
+      "plaintext": "8F1E",
+      "key": "ADBB",
+      "ciphertext": "494F"
+    },
+    {
+      "plaintext": "EDA5",
+      "key": "85F5",
+      "ciphertext": "4C44"
+    },
+    {
+      "plaintext": "D238",
+      "key": "4116",
+      "ciphertext": "BC8D"
+    },
+    {
+      "plaintext": "5587",
+      "key": "A548",
+      "ciphertext": "2D18"
+    },
+    {
+      "plaintext": "EA10",
+      "key": "3AAF",
+      "ciphertext": "0BDE"
+    },
+    {
+      "plaintext": "5CA1",
+      "key": "4B18",
+      "ciphertext": "4304"
+    },
+    {
+      "plaintext": "5FD0",
+      "key": "E401",
+      "ciphertext": "7D6A"
+    },
+    {
+      "plaintext": "BA77",
+      "key": "F95A",
+      "ciphertext": "B765"
+    },
+    {
+      "plaintext": "CFC0",
+      "key": "7E25",
+      "ciphertext": "B4CB"
+    },
+    {
+      "plaintext": "A10E",
+      "key": "F7D0",
+      "ciphertext": "7EF1"
+    },
+    {
+      "plaintext": "7928",
+      "key": "0066",
+      "ciphertext": "0E17"
+    },
+    {
+      "plaintext": "7226",
+      "key": "752E",
+      "ciphertext": "DD97"
+    },
+    {
+      "plaintext": "CBD0",
+      "key": "0C05",
+      "ciphertext": "7133"
+    },
+    {
+      "plaintext": "A709",
+      "key": "711B",
+      "ciphertext": "CAAF"
+    },
+    {
+      "plaintext": "B6F1",
+      "key": "BF10",
+      "ciphertext": "31DD"
+    },
+    {
+      "plaintext": "A5C4",
+      "key": "F5F1",
+      "ciphertext": "3768"
+    },
+    {
+      "plaintext": "0608",
+      "key": "363A",
+      "ciphertext": "2612"
+    },
+    {
+      "plaintext": "1861",
+      "key": "FB0A",
+      "ciphertext": "F649"
+    },
+    {
+      "plaintext": "1F36",
+      "key": "BC62",
+      "ciphertext": "4107"
+    },
+    {
+      "plaintext": "CC71",
+      "key": "A835",
+      "ciphertext": "8A4A"
+    },
+    {
+      "plaintext": "91FB",
+      "key": "2C03",
+      "ciphertext": "8480"
+    },
+    {
+      "plaintext": "BA38",
+      "key": "03FF",
+      "ciphertext": "C128"
+    },
+    {
+      "plaintext": "BF20",
+      "key": "AE71",
+      "ciphertext": "1FF9"
+    },
+    {
+      "plaintext": "8327",
+      "key": "39EB",
+      "ciphertext": "A83B"
+    },
+    {
+      "plaintext": "9C4B",
+      "key": "A74B",
+      "ciphertext": "02A8"
+    },
+    {
+      "plaintext": "E8F0",
+      "key": "39D3",
+      "ciphertext": "36E9"
+    },
+    {
+      "plaintext": "A47A",
+      "key": "8E06",
+      "ciphertext": "A991"
+    },
+    {
+      "plaintext": "3F95",
+      "key": "B57D",
+      "ciphertext": "9DB3"
+    },
+    {
+      "plaintext": "2387",
+      "key": "FC2E",
+      "ciphertext": "216C"
+    },
+    {
+      "plaintext": "8958",
+      "key": "9563",
+      "ciphertext": "C701"
+    },
+    {
+      "plaintext": "7835",
+      "key": "F2BB",
+      "ciphertext": "42AD"
+    },
+    {
+      "plaintext": "1C3F",
+      "key": "ECAE",
+      "ciphertext": "EC80"
+    },
+    {
+      "plaintext": "E443",
+      "key": "63E6",
+      "ciphertext": "8DA8"
+    },
+    {
+      "plaintext": "1084",
+      "key": "B3CC",
+      "ciphertext": "A695"
+    },
+    {
+      "plaintext": "0138",
+      "key": "375E",
+      "ciphertext": "3A77"
+    },
+    {
+      "plaintext": "D0CA",
+      "key": "D931",
+      "ciphertext": "4750"
+    },
+    {
+      "plaintext": "FE4A",
+      "key": "0D56",
+      "ciphertext": "9750"
+    },
+    {
+      "plaintext": "7292",
+      "key": "0990",
+      "ciphertext": "1D7E"
+    },
+    {
+      "plaintext": "81BF",
+      "key": "A430",
+      "ciphertext": "087E"
+    },
+    {
+      "plaintext": "0892",
+      "key": "3BF3",
+      "ciphertext": "215E"
+    },
+    {
+      "plaintext": "1548",
+      "key": "DBC1",
+      "ciphertext": "B3D6"
+    },
+    {
+      "plaintext": "3AD3",
+      "key": "382B",
+      "ciphertext": "9E83"
+    },
+    {
+      "plaintext": "31E5",
+      "key": "23FD",
+      "ciphertext": "6EAA"
+    },
+    {
+      "plaintext": "289E",
+      "key": "D062",
+      "ciphertext": "2143"
+    },
+    {
+      "plaintext": "97B4",
+      "key": "B711",
+      "ciphertext": "C855"
+    },
+    {
+      "plaintext": "4C86",
+      "key": "D16D",
+      "ciphertext": "4CF9"
+    },
+    {
+      "plaintext": "C69A",
+      "key": "11DC",
+      "ciphertext": "3CFA"
+    },
+    {
+      "plaintext": "954A",
+      "key": "F640",
+      "ciphertext": "616E"
+    },
+    {
+      "plaintext": "CFE5",
+      "key": "BD93",
+      "ciphertext": "4F6E"
+    },
+    {
+      "plaintext": "D51A",
+      "key": "631D",
+      "ciphertext": "EAD6"
+    },
+    {
+      "plaintext": "A235",
+      "key": "06B4",
+      "ciphertext": "AFEF"
+    },
+    {
+      "plaintext": "0BFB",
+      "key": "D09B",
+      "ciphertext": "79B4"
+    },
+    {
+      "plaintext": "F1ED",
+      "key": "C675",
+      "ciphertext": "FA98"
+    },
+    {
+      "plaintext": "EB0D",
+      "key": "649B",
+      "ciphertext": "E167"
+    },
+    {
+      "plaintext": "A0D5",
+      "key": "9220",
+      "ciphertext": "86CB"
+    },
+    {
+      "plaintext": "B421",
+      "key": "27A2",
+      "ciphertext": "460F"
+    },
+    {
+      "plaintext": "1F4F",
+      "key": "16D3",
+      "ciphertext": "DBCC"
+    },
+    {
+      "plaintext": "B588",
+      "key": "3F93",
+      "ciphertext": "C1B0"
+    },
+    {
+      "plaintext": "60C6",
+      "key": "FCDF",
+      "ciphertext": "D6C7"
+    },
+    {
+      "plaintext": "D98D",
+      "key": "413D",
+      "ciphertext": "E07A"
+    },
+    {
+      "plaintext": "07CF",
+      "key": "EC23",
+      "ciphertext": "A6CF"
+    },
+    {
+      "plaintext": "EE72",
+      "key": "2169",
+      "ciphertext": "4BD1"
+    },
+    {
+      "plaintext": "0077",
+      "key": "8DCC",
+      "ciphertext": "9FE7"
+    },
+    {
+      "plaintext": "7467",
+      "key": "5A21",
+      "ciphertext": "F42A"
+    },
+    {
+      "plaintext": "B1D4",
+      "key": "2AF3",
+      "ciphertext": "0955"
+    },
+    {
+      "plaintext": "3C1B",
+      "key": "3CDE",
+      "ciphertext": "9978"
+    },
+    {
+      "plaintext": "804A",
+      "key": "0DD0",
+      "ciphertext": "CEEA"
+    },
+    {
+      "plaintext": "13FE",
+      "key": "41E5",
+      "ciphertext": "4FCC"
+    },
+    {
+      "plaintext": "E46E",
+      "key": "5C05",
+      "ciphertext": "D0D9"
+    },
+    {
+      "plaintext": "6C2F",
+      "key": "47AE",
+      "ciphertext": "2102"
+    },
+    {
+      "plaintext": "A32F",
+      "key": "B022",
+      "ciphertext": "5D14"
+    },
+    {
+      "plaintext": "7FAB",
+      "key": "FF30",
+      "ciphertext": "DB32"
+    },
+    {
+      "plaintext": "8C8D",
+      "key": "2C05",
+      "ciphertext": "8CDD"
+    },
+    {
+      "plaintext": "6061",
+      "key": "1794",
+      "ciphertext": "2801"
+    },
+    {
+      "plaintext": "F339",
+      "key": "222F",
+      "ciphertext": "A626"
+    },
+    {
+      "plaintext": "D0A5",
+      "key": "0DBC",
+      "ciphertext": "7EAF"
+    },
+    {
+      "plaintext": "9F28",
+      "key": "3224",
+      "ciphertext": "2C44"
+    },
+    {
+      "plaintext": "79C4",
+      "key": "0A4F",
+      "ciphertext": "2247"
+    },
+    {
+      "plaintext": "7A29",
+      "key": "1DCC",
+      "ciphertext": "A756"
+    },
+    {
+      "plaintext": "186D",
+      "key": "A3E5",
+      "ciphertext": "16A3"
+    },
+    {
+      "plaintext": "6E1B",
+      "key": "5E5F",
+      "ciphertext": "9E6E"
+    },
+    {
+      "plaintext": "EBAC",
+      "key": "5413",
+      "ciphertext": "E3A5"
+    },
+    {
+      "plaintext": "3152",
+      "key": "2247",
+      "ciphertext": "D50A"
+    },
+    {
+      "plaintext": "A38A",
+      "key": "A742",
+      "ciphertext": "DF51"
+    },
+    {
+      "plaintext": "EC2D",
+      "key": "DB3C",
+      "ciphertext": "20E3"
+    },
+    {
+      "plaintext": "DF2E",
+      "key": "D638",
+      "ciphertext": "D9D4"
+    },
+    {
+      "plaintext": "901E",
+      "key": "28BC",
+      "ciphertext": "315C"
+    },
+    {
+      "plaintext": "D484",
+      "key": "8E9F",
+      "ciphertext": "FA13"
+    },
+    {
+      "plaintext": "61C1",
+      "key": "0D31",
+      "ciphertext": "2CB4"
+    },
+    {
+      "plaintext": "83D6",
+      "key": "B396",
+      "ciphertext": "7C16"
+    },
+    {
+      "plaintext": "22F4",
+      "key": "648A",
+      "ciphertext": "BFCE"
+    },
+    {
+      "plaintext": "6F19",
+      "key": "2852",
+      "ciphertext": "4F20"
+    },
+    {
+      "plaintext": "9CC4",
+      "key": "6CA8",
+      "ciphertext": "6525"
+    },
+    {
+      "plaintext": "C2E5",
+      "key": "B176",
+      "ciphertext": "FC3C"
+    },
+    {
+      "plaintext": "351E",
+      "key": "1165",
+      "ciphertext": "8E97"
+    },
+    {
+      "plaintext": "C67B",
+      "key": "3CD3",
+      "ciphertext": "B84E"
+    },
+    {
+      "plaintext": "6691",
+      "key": "2EB3",
+      "ciphertext": "754B"
+    },
+    {
+      "plaintext": "3BD3",
+      "key": "C8C4",
+      "ciphertext": "135A"
+    },
+    {
+      "plaintext": "EF44",
+      "key": "BE8E",
+      "ciphertext": "900F"
+    },
+    {
+      "plaintext": "0F92",
+      "key": "E53F",
+      "ciphertext": "D0E7"
+    },
+    {
+      "plaintext": "6965",
+      "key": "BB75",
+      "ciphertext": "D504"
+    },
+    {
+      "plaintext": "698A",
+      "key": "A466",
+      "ciphertext": "2EAB"
+    },
+    {
+      "plaintext": "DED3",
+      "key": "E7CB",
+      "ciphertext": "ED7C"
+    },
+    {
+      "plaintext": "6F63",
+      "key": "4260",
+      "ciphertext": "790C"
+    },
+    {
+      "plaintext": "ACE5",
+      "key": "0541",
+      "ciphertext": "3DC6"
+    },
+    {
+      "plaintext": "5461",
+      "key": "053F",
+      "ciphertext": "D6B2"
+    },
+    {
+      "plaintext": "C565",
+      "key": "FA59",
+      "ciphertext": "F51E"
+    },
+    {
+      "plaintext": "533F",
+      "key": "6C37",
+      "ciphertext": "2062"
+    },
+    {
+      "plaintext": "5255",
+      "key": "F3DD",
+      "ciphertext": "9733"
+    },
+    {
+      "plaintext": "604C",
+      "key": "5DD8",
+      "ciphertext": "F5FD"
+    },
+    {
+      "plaintext": "9ACE",
+      "key": "3F36",
+      "ciphertext": "C115"
+    },
+    {
+      "plaintext": "8EEF",
+      "key": "D881",
+      "ciphertext": "7892"
+    },
+    {
+      "plaintext": "CE3E",
+      "key": "1A3D",
+      "ciphertext": "3705"
+    },
+    {
+      "plaintext": "4EDD",
+      "key": "0BF7",
+      "ciphertext": "4B33"
+    },
+    {
+      "plaintext": "8043",
+      "key": "7FDE",
+      "ciphertext": "4609"
+    },
+    {
+      "plaintext": "A568",
+      "key": "BEB6",
+      "ciphertext": "351B"
+    },
+    {
+      "plaintext": "B61E",
+      "key": "20D6",
+      "ciphertext": "4898"
+    },
+    {
+      "plaintext": "3E4A",
+      "key": "702E",
+      "ciphertext": "2E7C"
+    },
+    {
+      "plaintext": "79C3",
+      "key": "84EA",
+      "ciphertext": "00BD"
+    },
+    {
+      "plaintext": "1AD8",
+      "key": "750D",
+      "ciphertext": "8BEA"
+    },
+    {
+      "plaintext": "3266",
+      "key": "8056",
+      "ciphertext": "CA55"
+    },
+    {
+      "plaintext": "2358",
+      "key": "8309",
+      "ciphertext": "EFCC"
+    },
+    {
+      "plaintext": "D416",
+      "key": "B27E",
+      "ciphertext": "A178"
+    },
+    {
+      "plaintext": "4914",
+      "key": "FB74",
+      "ciphertext": "A879"
+    },
+    {
+      "plaintext": "3A5E",
+      "key": "C16E",
+      "ciphertext": "2807"
+    },
+    {
+      "plaintext": "669D",
+      "key": "A4CC",
+      "ciphertext": "42C4"
+    },
+    {
+      "plaintext": "03C9",
+      "key": "D1E8",
+      "ciphertext": "7A73"
+    },
+    {
+      "plaintext": "7FB7",
+      "key": "19B8",
+      "ciphertext": "0116"
+    },
+    {
+      "plaintext": "457C",
+      "key": "5DA2",
+      "ciphertext": "3E88"
+    },
+    {
+      "plaintext": "135E",
+      "key": "BF0D",
+      "ciphertext": "832D"
+    },
+    {
+      "plaintext": "7701",
+      "key": "1ED5",
+      "ciphertext": "E147"
+    },
+    {
+      "plaintext": "D261",
+      "key": "039D",
+      "ciphertext": "7353"
+    },
+    {
+      "plaintext": "1E02",
+      "key": "A973",
+      "ciphertext": "FDF1"
+    },
+    {
+      "plaintext": "C9ED",
+      "key": "B67A",
+      "ciphertext": "6643"
+    },
+    {
+      "plaintext": "FC43",
+      "key": "B456",
+      "ciphertext": "9298"
+    },
+    {
+      "plaintext": "F79D",
+      "key": "3A3D",
+      "ciphertext": "93FB"
+    },
+    {
+      "plaintext": "73BB",
+      "key": "89B4",
+      "ciphertext": "0E06"
+    },
+    {
+      "plaintext": "DC53",
+      "key": "E5BF",
+      "ciphertext": "7C46"
+    },
+    {
+      "plaintext": "17FC",
+      "key": "974C",
+      "ciphertext": "4398"
+    },
+    {
+      "plaintext": "0850",
+      "key": "0214",
+      "ciphertext": "20AB"
+    },
+    {
+      "plaintext": "6951",
+      "key": "881D",
+      "ciphertext": "4628"
+    },
+    {
+      "plaintext": "FD25",
+      "key": "FE3D",
+      "ciphertext": "FCB9"
+    },
+    {
+      "plaintext": "6593",
+      "key": "F146",
+      "ciphertext": "EFA4"
+    },
+    {
+      "plaintext": "EE47",
+      "key": "7A86",
+      "ciphertext": "C118"
+    },
+    {
+      "plaintext": "A14A",
+      "key": "D510",
+      "ciphertext": "9986"
+    },
+    {
+      "plaintext": "8B94",
+      "key": "B311",
+      "ciphertext": "AC95"
+    },
+    {
+      "plaintext": "D593",
+      "key": "D3CB",
+      "ciphertext": "59C8"
+    },
+    {
+      "plaintext": "BB65",
+      "key": "1132",
+      "ciphertext": "BF2C"
+    },
+    {
+      "plaintext": "D2A9",
+      "key": "1222",
+      "ciphertext": "BA09"
+    },
+    {
+      "plaintext": "EBE7",
+      "key": "972C",
+      "ciphertext": "7CD9"
+    },
+    {
+      "plaintext": "1387",
+      "key": "13BA",
+      "ciphertext": "48BC"
+    },
+    {
+      "plaintext": "E91D",
+      "key": "854F",
+      "ciphertext": "5479"
+    },
+    {
+      "plaintext": "8423",
+      "key": "3954",
+      "ciphertext": "329B"
+    },
+    {
+      "plaintext": "E49F",
+      "key": "68E3",
+      "ciphertext": "3339"
+    },
+    {
+      "plaintext": "D925",
+      "key": "0164",
+      "ciphertext": "E2A6"
+    },
+    {
+      "plaintext": "98D8",
+      "key": "D69A",
+      "ciphertext": "1131"
+    },
+    {
+      "plaintext": "8931",
+      "key": "3BF7",
+      "ciphertext": "D545"
+    },
+    {
+      "plaintext": "E047",
+      "key": "2C53",
+      "ciphertext": "148F"
+    },
+    {
+      "plaintext": "00CD",
+      "key": "50E6",
+      "ciphertext": "2343"
+    },
+    {
+      "plaintext": "D2BF",
+      "key": "1231",
+      "ciphertext": "E665"
+    },
+    {
+      "plaintext": "41AD",
+      "key": "9A30",
+      "ciphertext": "C259"
+    },
+    {
+      "plaintext": "CF24",
+      "key": "A3D4",
+      "ciphertext": "F754"
+    },
+    {
+      "plaintext": "853F",
+      "key": "E34F",
+      "ciphertext": "50BA"
+    },
+    {
+      "plaintext": "F8C8",
+      "key": "64A2",
+      "ciphertext": "77A1"
+    },
+    {
+      "plaintext": "10FF",
+      "key": "8A59",
+      "ciphertext": "349F"
+    },
+    {
+      "plaintext": "F5DB",
+      "key": "04A4",
+      "ciphertext": "182F"
+    },
+    {
+      "plaintext": "0256",
+      "key": "73EC",
+      "ciphertext": "14A1"
+    },
+    {
+      "plaintext": "57F0",
+      "key": "F32F",
+      "ciphertext": "CB7A"
+    },
+    {
+      "plaintext": "5B85",
+      "key": "A784",
+      "ciphertext": "E791"
+    },
+    {
+      "plaintext": "8B70",
+      "key": "976A",
+      "ciphertext": "2AC3"
+    },
+    {
+      "plaintext": "8393",
+      "key": "0A18",
+      "ciphertext": "8EE7"
+    },
+    {
+      "plaintext": "49E9",
+      "key": "0EC0",
+      "ciphertext": "5ECA"
+    },
+    {
+      "plaintext": "8679",
+      "key": "9C4E",
+      "ciphertext": "404B"
+    },
+    {
+      "plaintext": "0862",
+      "key": "9199",
+      "ciphertext": "E6BF"
+    },
+    {
+      "plaintext": "DE79",
+      "key": "8730",
+      "ciphertext": "FBB0"
+    },
+    {
+      "plaintext": "E8B4",
+      "key": "5A7B",
+      "ciphertext": "AEA4"
+    },
+    {
+      "plaintext": "3FD2",
+      "key": "26BD",
+      "ciphertext": "6E9E"
+    },
+    {
+      "plaintext": "DF6B",
+      "key": "59F0",
+      "ciphertext": "724B"
+    },
+    {
+      "plaintext": "8ABB",
+      "key": "4EDC",
+      "ciphertext": "CBFB"
+    },
+    {
+      "plaintext": "95EA",
+      "key": "6257",
+      "ciphertext": "12B2"
+    },
+    {
+      "plaintext": "180C",
+      "key": "432B",
+      "ciphertext": "4083"
+    },
+    {
+      "plaintext": "B027",
+      "key": "A4B6",
+      "ciphertext": "3E6B"
+    },
+    {
+      "plaintext": "5CF1",
+      "key": "DBCD",
+      "ciphertext": "E3C1"
+    },
+    {
+      "plaintext": "0EDB",
+      "key": "83A6",
+      "ciphertext": "1584"
+    },
+    {
+      "plaintext": "C7BE",
+      "key": "8120",
+      "ciphertext": "7B52"
+    },
+    {
+      "plaintext": "94C4",
+      "key": "2271",
+      "ciphertext": "7F03"
+    }
+  ]
+}
